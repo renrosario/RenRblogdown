@@ -6,10 +6,20 @@
     <description>Recent content on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 21 Sep 2018 13:09:13 -0600</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Primer encuentro de RenRosario</title>
+      <link>/2018/09/21/primer-encuentro-de-renrosario/</link>
+      <pubDate>Fri, 21 Sep 2018 13:09:13 -0600</pubDate>
+      
+      <guid>/2018/09/21/primer-encuentro-de-renrosario/</guid>
+      <description>Con la bandera argentina flameando detrás nuestro en el patio de la Facultad de Ciencias Económicas y Estadística de la UNR, el pasado miércoles 12 de septiembre un puñado de personas interesadas en R nos reunimos por primera vez para planear la creación de este grupo.
+Disfrutando de mates y con muy buena onda, fuimos delineando nuestra misión, visión y objetivos, código de conducta, qué tipo de actividades nos gustaría tener y cómo comunicarnos entre nosotres y el resto.</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
