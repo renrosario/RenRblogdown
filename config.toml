@@ -1,0 +1,39 @@
+baseurl = "/"
+languageCode = "es-ar"
+title = "R en Rosario"
+theme = "hugo-lithium"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Quiénes somos"
+    url = "/about/"
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/renrosario"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/renrosarioarg"
+
+[params]
+    description = "Rosario's R User Group Website"
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
+
+    [params.logo]
+    url = "logoR.jpg"
+    width = 50
+    height = 50
+    alt = "Logo"
+
