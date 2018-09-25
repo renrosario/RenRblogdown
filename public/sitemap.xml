@@ -3,18 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2018/09/21/segundo-encuentro-de-renrosario...-muy-pronto/</loc>
-    <lastmod>2018-09-21T15:09:13-06:00</lastmod>
+    <loc>/2018/09/ultimando-detalles/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2018/09/21/primer-encuentro-de-renrosario/</loc>
-    <lastmod>2018-09-21T13:09:13-06:00</lastmod>
+    <loc>/2018/09/visitamos-a-r-ladies-santa-fe/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2018/09/10/participamos-de-latin-r/</loc>
-    <lastmod>2018-09-10T13:09:13-06:00</lastmod>
+    <loc>/2018/09/primer-encuentro-de-r-en-rosario/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/quienes-somos/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/09/participamos-de-latin-r/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/acerca/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/archives/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -23,27 +44,88 @@
   </url>
   
   <url>
-    <loc>/coc/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2018-09-21T15:09:13-06:00</lastmod>
+    <loc>/tags/comunidad/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/tags/conducta/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/codigo-de-conducta/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/encuentros/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/latin-r/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mision/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/objetivos/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/organizaci%C3%B3n/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r-ladies/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-09-21T15:09:13-06:00</lastmod>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/santa-fe/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vision/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/visitas/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

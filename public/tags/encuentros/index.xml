@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Encuentros on R en Rosario</title>
+    <link>/tags/encuentros/</link>
+    <description>Recent content in Encuentros on R en Rosario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/encuentros/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ultimando detalles</title>
+      <link>/2018/09/ultimando-detalles/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/ultimando-detalles/</guid>
+      <description>&lt;p&gt;El pasado 24 de septiembre nos volvimos a reunir para terminar de coordinar las bases fundacionales de nuestra comunidad.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>¡Visitamos a R-Ladies Santa Fe!</title>
+      <link>/2018/09/visitamos-a-r-ladies-santa-fe/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/visitamos-a-r-ladies-santa-fe/</guid>
+      <description>&lt;p&gt;R-Ladies Santa Fe tuvo un nuevo meet-up sobre algoritmos básicos de Machine Learning y Rosario envió a su representante.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Primer encuentro de R en Rosario</title>
+      <link>/2018/09/primer-encuentro-de-r-en-rosario/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/primer-encuentro-de-r-en-rosario/</guid>
+      <description>&lt;p&gt;Con la bandera argentina flameando detrás nuestro en el patio de la Facultad de Ciencias Económicas y Estadística de la UNR, el pasado miércoles 12 de septiembre un puñado de personas interesadas en R nos reunimos por primera vez para planear la creación de este grupo.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
