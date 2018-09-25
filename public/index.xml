@@ -5,60 +5,74 @@
     <link>/</link>
     <description>Recent content on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ar</language>
-    <lastBuildDate>Fri, 21 Sep 2018 15:09:13 -0600</lastBuildDate>
+    <language>es</language>
+    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Segundo encuentro de RenRosario... muy pronto!</title>
-      <link>/2018/09/21/segundo-encuentro-de-renrosario...-muy-pronto/</link>
-      <pubDate>Fri, 21 Sep 2018 15:09:13 -0600</pubDate>
+      <title>Ultimando detalles</title>
+      <link>/2018/09/ultimando-detalles/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/09/21/segundo-encuentro-de-renrosario...-muy-pronto/</guid>
-      <description>Muy pronto estaremos informando la fecha y el lugar de nuestro próximo encuentro, durante la semana del 24 de septiembre. Estate atento!!</description>
+      <guid>/2018/09/ultimando-detalles/</guid>
+      <description>&lt;p&gt;El pasado 24 de septiembre nos volvimos a reunir para terminar de coordinar las bases fundacionales de nuestra comunidad.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Primer encuentro de RenRosario</title>
-      <link>/2018/09/21/primer-encuentro-de-renrosario/</link>
-      <pubDate>Fri, 21 Sep 2018 13:09:13 -0600</pubDate>
+      <title>¡Visitamos a R-Ladies Santa Fe!</title>
+      <link>/2018/09/visitamos-a-r-ladies-santa-fe/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/09/21/primer-encuentro-de-renrosario/</guid>
-      <description>Con la bandera argentina flameando detrás nuestro en el patio de la Facultad de Ciencias Económicas y Estadística de la UNR, el pasado miércoles 12 de septiembre un puñado de personas interesadas en R nos reunimos por primera vez para planear la creación de este grupo.
-Disfrutando de mates y con muy buena onda, fuimos delineando nuestra misión, visión y objetivos, código de conducta, qué tipo de actividades nos gustaría tener y cómo comunicarnos entre nosotres y el resto.</description>
+      <guid>/2018/09/visitamos-a-r-ladies-santa-fe/</guid>
+      <description>&lt;p&gt;R-Ladies Santa Fe tuvo un nuevo meet-up sobre algoritmos básicos de Machine Learning y Rosario envió a su representante.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Participamos de Latin-R!</title>
-      <link>/2018/09/10/participamos-de-latin-r/</link>
-      <pubDate>Mon, 10 Sep 2018 13:09:13 -0600</pubDate>
+      <title>Primer encuentro de R en Rosario</title>
+      <link>/2018/09/primer-encuentro-de-r-en-rosario/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/09/10/participamos-de-latin-r/</guid>
-      <description>Entre el 3 y 5 de septiembre tuvimos la alegría de participar de Latin-R, la primera Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo.
-Disfrutamos de las múltiples actividades brindadas:
- Presentación de resultados de trabajos de investigación y demostración de aplicaciones creadas en R. Charlas de referentes en el uso de R en distintas áreas. Discusión sobre ideas, investigaciones en curso, experiencias y desafíos en el uso de R.</description>
-    </item>
-    
-    <item>
-      <title>Código de conducta</title>
-      <link>/coc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/coc/</guid>
-      <description>Los participantes e invitados del Grupo de Usuarios de R en Rosario (RenRosario) como así también sus representantes deben conocer y seguir este Código de Conducta (basado en el Código de Conducta de R Community) que es establecido con la finalidad de alentar al crecimiento de esta comunidad, participando en un ambiente amigable, partiendo de la base del respeto mutuo.
-En cualquier tipo de evento ya sea conferencia, charla, taller, fiesta, reunión, redes sociales y otros medios en línea:</description>
+      <guid>/2018/09/primer-encuentro-de-r-en-rosario/</guid>
+      <description>&lt;p&gt;Con la bandera argentina flameando detrás nuestro en el patio de la Facultad de Ciencias Económicas y Estadística de la UNR, el pasado miércoles 12 de septiembre un puñado de personas interesadas en R nos reunimos por primera vez para planear la creación de este grupo.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Quiénes Somos</title>
-      <link>/about/</link>
+      <link>/quienes-somos/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/quienes-somos/</guid>
+      <description>Sitio En Construcción. Esto es nuestro borrador, pronto subiremos la versión final:
+Misión Este grupo surge con la misión de conectar a los usuarios de R de la ciudad de Rosario, Argentina, independientemente de su grado de conocimiento sobre el software y el ámbito de aplicación del mismo. Se pretende promover el uso del lenguaje de programación R y apoyar el desarrollo de esta comunidad de usuarios para compartir experiencias, promover el aprendizaje continuo, favorecer la creación de proyectos interdisciplinarios y fomentar la cultura estadística mediante el uso de software libre.</description>
+    </item>
+    
+    <item>
+      <title>¡Participamos de Latin-R!</title>
+      <link>/2018/09/participamos-de-latin-r/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/participamos-de-latin-r/</guid>
+      <description>&lt;p&gt;Entre el 3 y 5 de septiembre tuvimos la alegría de participar de &lt;a href=&#34;http://latin-r.com/&#34;&gt;Latin-R&lt;/a&gt;, la primera Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Código de Conducta</title>
+      <link>/codigo-de-conducta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>Somos el Grupo de Usarios de R en Rosario, una de las ciudades más grandes de Argentina, en la provincia de Santa Fe. Tenemos en común nuestro interés por este lenguaje de programación y deseamos fomentar su uso libre y gratuito en medio de nuestra comunidad.
-Misión Este grupo surge con la misión de conectar a los usuarios de R de la ciudad de Rosario, Argentina, independientemente de su grado de conocimiento sobre el software y el ámbito de aplicación del mismo.</description>
+      <guid>/codigo-de-conducta/</guid>
+      <description>Sitio En Construcción. Esto es nuestro borrador, pronto subiremos la versión final:
+Los participantes e invitados del Grupo de Usuaries de R en Rosario (RenRosario) como así también sus representantes deben conocer y seguir este Código de Conducta (basado en el Código de Conducta de R Community) que es establecido con la finalidad de alentar al crecimiento de esta comunidad, participando en un ambiente amigable, partiendo de la base del respeto mutuo.</description>
     </item>
     
   </channel>

@@ -5,10 +5,119 @@
     <link>/tags/</link>
     <description>Recent content in Tags on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ar</language>
+    <language>es</language>
+    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Acerca</title>
+      <link>/tags/acerca/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/acerca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comunidad</title>
+      <link>/tags/comunidad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/comunidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conducta</title>
+      <link>/tags/conducta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/conducta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encuentros</title>
+      <link>/tags/encuentros/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/encuentros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latin R</title>
+      <link>/tags/latin-r/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/latin-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mision</title>
+      <link>/tags/mision/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Objetivos</title>
+      <link>/tags/objetivos/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/objetivos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organización</title>
+      <link>/tags/organizaci%C3%B3n/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/organizaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Ladies</title>
+      <link>/tags/r-ladies/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r-ladies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Santa Fe</title>
+      <link>/tags/santa-fe/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/santa-fe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision</title>
+      <link>/tags/vision/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visitas</title>
+      <link>/tags/visitas/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/visitas/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

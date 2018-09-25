@@ -1,9 +1,18 @@
 ---
-title: "Quiénes Somos"
-date: "20180921"
+title: Quiénes Somos
+author: '@mrqtsp'
+date: '2018-09-10'
+slug: quienes-somos
+categories: []
+tags:
+  - acerca
+  - mision
+  - vision
+  - objetivos
+showDate: false
 ---
 
-Somos el Grupo de Usarios de R en Rosario, una de las ciudades más grandes de Argentina, en la provincia de Santa Fe. Tenemos en común nuestro interés por este lenguaje de programación y deseamos fomentar su uso libre y gratuito en medio de nuestra comunidad.
+**Sitio En Construcción**. Esto es nuestro borrador, pronto subiremos la versión final:
 
 # Misión
 

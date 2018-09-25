@@ -1,9 +1,18 @@
 ---
-title: "Código de conducta"
-date: "20180921"
+title: Código de Conducta
+author: '@mrqtsp'
+slug: codigo-de-conducta
+categories: []
+tags:
+  - conducta
+  - comunidad
+showDate: false
 ---
 
-Los participantes e invitados del Grupo de Usuarios de R en Rosario (RenRosario) como así también sus representantes deben conocer y seguir este **Código de Conducta** (basado en el [Código de Conducta de R Community)](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct) que es establecido con la finalidad de alentar al crecimiento de esta comunidad, participando en un ambiente amigable, partiendo de la base del respeto mutuo.
+**Sitio En Construcción**. Esto es nuestro borrador, pronto subiremos la versión final:
+
+
+Los participantes e invitados del Grupo de Usuaries de R en Rosario (RenRosario) como así también sus representantes deben conocer y seguir este **Código de Conducta** (basado en el [Código de Conducta de R Community)](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct) que es establecido con la finalidad de alentar al crecimiento de esta comunidad, participando en un ambiente amigable, partiendo de la base del respeto mutuo.
 
 
 En cualquier tipo de evento ya sea conferencia, charla, taller, fiesta, reunión, redes sociales y otros medios en línea:

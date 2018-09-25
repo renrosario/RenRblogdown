@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vision on R en Rosario</title>
+    <link>/tags/vision/</link>
+    <description>Recent content in Vision on R en Rosario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quiénes Somos</title>
+      <link>/quienes-somos/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/quienes-somos/</guid>
+      <description>Sitio En Construcción. Esto es nuestro borrador, pronto subiremos la versión final:
+Misión Este grupo surge con la misión de conectar a los usuarios de R de la ciudad de Rosario, Argentina, independientemente de su grado de conocimiento sobre el software y el ámbito de aplicación del mismo. Se pretende promover el uso del lenguaje de programación R y apoyar el desarrollo de esta comunidad de usuarios para compartir experiencias, promover el aprendizaje continuo, favorecer la creación de proyectos interdisciplinarios y fomentar la cultura estadística mediante el uso de software libre.</description>
+    </item>
+    
+  </channel>
+</rss>
