@@ -50,8 +50,8 @@
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/quienes-somos/</guid>
-      <description>Sitio En Construcción. Esto es nuestro borrador, pronto subiremos la versión final:
-Misión Este grupo surge con la misión de conectar a los usuarios de R de la ciudad de Rosario, Argentina, independientemente de su grado de conocimiento sobre el software y el ámbito de aplicación del mismo. Se pretende promover el uso del lenguaje de programación R y apoyar el desarrollo de esta comunidad de usuarios para compartir experiencias, promover el aprendizaje continuo, favorecer la creación de proyectos interdisciplinarios y fomentar la cultura estadística mediante el uso de software libre.</description>
+      <description>Misión Este grupo surge con la misión de conectar a les usuaries de R en la ciudad de Rosario, Argentina, independientemente de su grado de conocimiento sobre el software y el ámbito de aplicación del mismo. Pretendemos promover el uso del lenguaje de programación R, apoyar el desarrollo de esta comunidad de usuaries para compartir experiencias, promover el aprendizaje continuo y favorecer la creación de proyectos interdisciplinarios.
+Visión Creamos esta comunidad con el ideal de brindar un espacio social activo e inclusivo, cuyes integrantes se encuentren predispuestos a trabajar en forma colaborativa y constructiva, compartiendo conocimientos e intercambiando opiniones en forma respetuosa y con la finalidad común de ampliar y promover el uso de R en diversas disciplinas que puedan sacar partido de las herramientas que dicho software libre provee.</description>
     </item>
     
     <item>
@@ -71,8 +71,9 @@ Misión Este grupo surge con la misión de conectar a los usuarios de R de la ci
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/codigo-de-conducta/</guid>
-      <description>Sitio En Construcción. Esto es nuestro borrador, pronto subiremos la versión final:
-Los participantes e invitados del Grupo de Usuaries de R en Rosario (RenRosario) como así también sus representantes deben conocer y seguir este Código de Conducta (basado en el Código de Conducta de R Community) que es establecido con la finalidad de alentar al crecimiento de esta comunidad, participando en un ambiente amigable, partiendo de la base del respeto mutuo.</description>
+      <description>La comunidad de RenRosario, incluyendo sus representantes, deben conocer y seguir este Código de Conducta (basado en el Código de Conducta de R Community) que es establecido con la finalidad de alentar al crecimiento de esta comunidad, participando en un ambiente amigable, partiendo de la base del respeto mutuo.
+En cualquier tipo de evento ya sea conferencia, charla, taller, fiesta, reunión, redes sociales y otros medios en línea:
+ aborde los esfuerzos de las demás personas con consideración; cuando no esté de acuerdo con algo, sea amable al plantear sus problemas; ejercite la consideración y el respeto en su discurso y en sus acciones; intente colaborar para evitar conflictos; sea consciente de su entorno y de les otres participantes; alerte al liderazgo de la comunidad si nota alguna situación peligrosa, alguien sufriendo una situación comprometedora o violaciones de este Código de Conducta, incluso aunque parezcan poco importantes.</description>
     </item>
     
   </channel>
