@@ -32,4 +32,4 @@ Acoso incluye: daño o perjurio verbal o escrito relacionado con género, orient
 Quienes violen estas reglas podrán recibir sanciones o expulsiones, y se espera que a quienes se les pida detengan cualquier comportamiento de acoso, con cumplimiento inmediato.
 
 
-Somos receptives a los comentarios constructivos y las críticas, ya que las experiencias y conjuntos de habilidades de otros miembros contribuyen a todos nuestros esfuerzos. Estamos aceptando a cualquiera que desee participar en nuestras actividades, fomentando un entorno en el que todes puedan aportar y marcar la diferencia.
+Somos receptives a los comentarios constructivos y las críticas, ya que las experiencias y conjuntos de habilidades de otros integrantes contribuyen a todos nuestros esfuerzos. Estamos aceptando a cualquiera que desee participar en nuestras actividades, fomentando un entorno en el que todes puedan aportar y marcar la diferencia.
