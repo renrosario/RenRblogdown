@@ -103,6 +103,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "Slack (24 members)"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-slack\"></i>"
   url = "https://renrosario.slack.com"
+ [[menu.links]]
+  weight = 3
+  identifier = "meetup"
+  name = "Meetup (23 members)"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-meetup\"></i>"
+  url = "https://www.meetup.com/r-en-rosario"
 
 [[menu.misc]]
   weight = 1
