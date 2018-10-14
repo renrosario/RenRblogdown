@@ -23,7 +23,7 @@
     <item>
       <title>Comunidad</title>
       <link>/tags/comunidad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/comunidad/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Encuentros</title>
       <link>/tags/encuentros/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/encuentros/</guid>
       <description></description>
@@ -53,6 +53,15 @@
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/latin-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meetup</title>
+      <link>/tags/meetup/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/meetup/</guid>
       <description></description>
     </item>
     
@@ -80,6 +89,15 @@
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/organizaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Consortium</title>
+      <link>/tags/r-consortium/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r-consortium/</guid>
       <description></description>
     </item>
     

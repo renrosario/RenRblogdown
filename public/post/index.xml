@@ -6,10 +6,32 @@
     <description>Recent content in Posts on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Primer Meetup</title>
+      <link>/2018/10/primermeetup/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/primermeetup/</guid>
+      <description>&lt;p&gt;¡Llegó el momento de nuestro primer Meetup oficial! No te quedes afuera.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>¡Ya formamos parte del R Consortium!</title>
+      <link>/2018/10/rconsortium/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/rconsortium/</guid>
+      <description>&lt;p&gt;Desde el 1 de octubre de 2018 formamos parte oficialmente del programa de &lt;a href=&#34;https://www.r-consortium.org/&#34;&gt;R Consortium&lt;/a&gt; para Grupos de Usuaries de R (RUGs).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Ultimando detalles</title>
