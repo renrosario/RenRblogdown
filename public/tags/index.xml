@@ -41,7 +41,7 @@
     <item>
       <title>Encuentros</title>
       <link>/tags/encuentros/</link>
-      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/encuentros/</guid>
       <description></description>
@@ -93,6 +93,15 @@
     </item>
     
     <item>
+      <title>Paquetes</title>
+      <link>/tags/paquetes/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/paquetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R Consortium</title>
       <link>/tags/r-consortium/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
@@ -111,11 +120,38 @@
     </item>
     
     <item>
+      <title>Rmarkdown</title>
+      <link>/tags/rmarkdown/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rmarkdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rprojects</title>
+      <link>/tags/rprojects/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rprojects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Santa Fe</title>
       <link>/tags/santa-fe/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/santa-fe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trabajo Reproducible</title>
+      <link>/tags/trabajo-reproducible/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/trabajo-reproducible/</guid>
       <description></description>
     </item>
     
