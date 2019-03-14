@@ -6,10 +6,19 @@
     <description>Recent content in Meetup on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Taller sobre Visualización con ggplot2</title>
+      <link>/2019/03/taller-ggplot2/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/03/taller-ggplot2/</guid>
+      <description>&lt;p&gt;Celebrando Día Internacional de la Mujer y so rol en la ciencia de datos, tuvimos el primer encuentro del año y nos dedicamos a aprender cómo realizar gráficos con &lt;strong&gt;ggplot2&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Primer meetup realizado!</title>
@@ -17,9 +26,7 @@
       <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/10/primer-meetup-realizado/</guid>
-      <description>&lt;p&gt;¡Finalmente nos conocimos las caras en el primer encuentro! Entrá para enterarte qué paso en la juntada.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;¡Finalmente nos conocimos las caras en el primer encuentro! Entrá para enterarte qué paso en la juntada.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +35,7 @@
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/10/primermeetup/</guid>
-      <description>&lt;p&gt;¡Llegó el momento de nuestro primer Meetup oficial! No te quedes afuera.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;¡Llegó el momento de nuestro primer Meetup oficial! No te quedes afuera.&lt;/p&gt;</description>
     </item>
     
   </channel>
