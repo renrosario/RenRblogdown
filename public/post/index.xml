@@ -6,10 +6,19 @@
     <description>Recent content in Posts on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Taller sobre Visualización con ggplot2</title>
+      <link>/2019/03/taller-ggplot2/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/03/taller-ggplot2/</guid>
+      <description>&lt;p&gt;Celebrando Día Internacional de la Mujer y so rol en la ciencia de datos, tuvimos el primer encuentro del año y nos dedicamos a aprender cómo realizar gráficos con &lt;strong&gt;ggplot2&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Segundo meetup: Trabajo reproducible en R</title>
@@ -17,9 +26,7 @@
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/12/segundo-meetup-trabajo-reproducible-en-r/</guid>
-      <description>&lt;p&gt;Nico Ballarini nos visitó y enseñó a usar R para que nuestro trabajo sea reproducible.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Nico Ballarini nos visitó y enseñó a usar R para que nuestro trabajo sea reproducible.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +35,7 @@
       <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/10/primer-meetup-realizado/</guid>
-      <description>&lt;p&gt;¡Finalmente nos conocimos las caras en el primer encuentro! Entrá para enterarte qué paso en la juntada.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;¡Finalmente nos conocimos las caras en el primer encuentro! Entrá para enterarte qué paso en la juntada.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +44,7 @@
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/10/primermeetup/</guid>
-      <description>&lt;p&gt;¡Llegó el momento de nuestro primer Meetup oficial! No te quedes afuera.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;¡Llegó el momento de nuestro primer Meetup oficial! No te quedes afuera.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,9 +53,7 @@
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/10/rconsortium/</guid>
-      <description>&lt;p&gt;Desde el 1 de octubre de 2018 formamos parte oficialmente del programa de &lt;a href=&#34;https://www.r-consortium.org/&#34;&gt;R Consortium&lt;/a&gt; para Grupos de Usuaries de R (RUGs).&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Desde el 1 de octubre de 2018 formamos parte oficialmente del programa de &lt;a href=&#34;https://www.r-consortium.org/&#34;&gt;R Consortium&lt;/a&gt; para Grupos de Usuaries de R (RUGs).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,9 +62,7 @@
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/09/ultimando-detalles/</guid>
-      <description>&lt;p&gt;El pasado 24 de septiembre nos volvimos a reunir para terminar de coordinar las bases fundacionales de nuestra comunidad.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;El pasado 24 de septiembre nos volvimos a reunir para terminar de coordinar las bases fundacionales de nuestra comunidad.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -72,9 +71,7 @@
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/09/visitamos-a-r-ladies-santa-fe/</guid>
-      <description>&lt;p&gt;R-Ladies Santa Fe tuvo un nuevo meet-up sobre algoritmos básicos de Machine Learning y Rosario envió a su representante.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;R-Ladies Santa Fe tuvo un nuevo meet-up sobre algoritmos básicos de Machine Learning y Rosario envió a su representante.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -83,9 +80,7 @@
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/09/primer-encuentro-de-r-en-rosario/</guid>
-      <description>&lt;p&gt;Con la bandera argentina flameando detrás nuestro en el patio de la Facultad de Ciencias Económicas y Estadística de la UNR, el pasado miércoles 12 de septiembre un puñado de personas interesadas en R nos reunimos por primera vez para planear la creación de este grupo.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Con la bandera argentina flameando detrás nuestro en el patio de la Facultad de Ciencias Económicas y Estadística de la UNR, el pasado miércoles 12 de septiembre un puñado de personas interesadas en R nos reunimos por primera vez para planear la creación de este grupo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -94,9 +89,7 @@
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/09/participamos-de-latin-r/</guid>
-      <description>&lt;p&gt;Entre el 3 y 5 de septiembre tuvimos la alegría de participar de &lt;a href=&#34;http://latin-r.com/&#34;&gt;Latin-R&lt;/a&gt;, la primera Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Entre el 3 y 5 de septiembre tuvimos la alegría de participar de &lt;a href=&#34;http://latin-r.com/&#34;&gt;Latin-R&lt;/a&gt;, la primera Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo.&lt;/p&gt;</description>
     </item>
     
   </channel>
