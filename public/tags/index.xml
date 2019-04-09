@@ -23,7 +23,7 @@
     <item>
       <title>Comunidad</title>
       <link>/tags/comunidad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/comunidad/</guid>
       <description></description>
@@ -41,9 +41,18 @@
     <item>
       <title>Encuentros</title>
       <link>/tags/encuentros/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/encuentros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ggplot2</title>
+      <link>/tags/ggplot2/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ggplot2/</guid>
       <description></description>
     </item>
     
@@ -53,6 +62,15 @@
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/latin-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meetup</title>
+      <link>/tags/meetup/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/meetup/</guid>
       <description></description>
     </item>
     
@@ -84,6 +102,24 @@
     </item>
     
     <item>
+      <title>Paquetes</title>
+      <link>/tags/paquetes/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/paquetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Consortium</title>
+      <link>/tags/r-consortium/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r-consortium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R Ladies</title>
       <link>/tags/r-ladies/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
@@ -93,11 +129,38 @@
     </item>
     
     <item>
+      <title>Rmarkdown</title>
+      <link>/tags/rmarkdown/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rmarkdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rprojects</title>
+      <link>/tags/rprojects/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rprojects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Santa Fe</title>
       <link>/tags/santa-fe/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/santa-fe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trabajo Reproducible</title>
+      <link>/tags/trabajo-reproducible/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/trabajo-reproducible/</guid>
       <description></description>
     </item>
     
@@ -116,6 +179,15 @@
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/visitas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizacion</title>
+      <link>/tags/visualizacion/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/visualizacion/</guid>
       <description></description>
     </item>
     

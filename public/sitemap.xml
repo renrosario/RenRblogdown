@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2019/03/taller-ggplot2/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/12/segundo-meetup-trabajo-reproducible-en-r/</loc>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/10/primer-meetup-realizado/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/10/primermeetup/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/10/rconsortium/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/09/ultimando-detalles/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
   </url>
@@ -45,6 +70,7 @@
   
   <url>
     <loc>/tags/comunidad/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,13 +85,31 @@
   
   <url>
     <loc>/tags/encuentros/</loc>
-    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ggplot2/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/latin-r/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/meetup/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/meetup/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -88,8 +132,20 @@
   </url>
   
   <url>
+    <loc>/tags/paquetes/</loc>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
-    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r-consortium/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -101,7 +157,19 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rmarkdown/</loc>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rprojects/</loc>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -118,6 +186,12 @@
   </url>
   
   <url>
+    <loc>/tags/trabajo-reproducible/</loc>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/vision/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -126,6 +200,12 @@
   <url>
     <loc>/tags/visitas/</loc>
     <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/visualizacion/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

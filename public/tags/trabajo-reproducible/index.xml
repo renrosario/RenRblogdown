@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trabajo Reproducible on R en Rosario</title>
+    <link>/tags/trabajo-reproducible/</link>
+    <description>Recent content in Trabajo Reproducible on R en Rosario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/trabajo-reproducible/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Segundo meetup: Trabajo reproducible en R</title>
+      <link>/2018/12/segundo-meetup-trabajo-reproducible-en-r/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/segundo-meetup-trabajo-reproducible-en-r/</guid>
+      <description>&lt;p&gt;Nico Ballarini nos visitó y enseñó a usar R para que nuestro trabajo sea reproducible.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
