@@ -6,10 +6,19 @@
     <description>Recent content in Meetup on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/meetup/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Encuentro variadito: 2x1</title>
+      <link>/2019/05/encuentro-variadito-2x1/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/encuentro-variadito-2x1/</guid>
+      <description>&lt;p&gt;En el cuarto encuentro de nuestro grupo tuvimos un excelente combinado con dos charlas al precio de una&amp;hellip;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Taller sobre Visualización con ggplot2</title>
