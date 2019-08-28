@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Bayesplot</title>
+      <link>/tags/bayesplot/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bayesplot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Comunidad</title>
       <link>/tags/comunidad/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
@@ -62,6 +71,15 @@
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/imputacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferencia Bayesiana</title>
+      <link>/tags/inferencia-bayesiana/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/inferencia-bayesiana/</guid>
       <description></description>
     </item>
     
@@ -165,11 +183,29 @@
     </item>
     
     <item>
+      <title>Rstan</title>
+      <link>/tags/rstan/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rstan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Santa Fe</title>
       <link>/tags/santa-fe/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/santa-fe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stan</title>
+      <link>/tags/stan/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/stan/</guid>
       <description></description>
     </item>
     

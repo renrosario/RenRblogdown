@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2019/08/rstan-intro-a-la-inferencia-bayesiana-en-r/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2019/05/encuentro-variadito-2x1/</loc>
     <lastmod>2019-05-23T00:00:00+00:00</lastmod>
   </url>
@@ -69,6 +74,12 @@
   </url>
   
   <url>
+    <loc>/tags/bayesplot/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
@@ -107,19 +118,25 @@
   </url>
   
   <url>
+    <loc>/tags/inferencia-bayesiana/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/latin-r/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/meetup/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
+    <loc>/categories/meetup/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/meetup/</loc>
+    <loc>/tags/meetup/</loc>
     <lastmod>2019-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -156,7 +173,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -174,7 +191,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -191,8 +208,20 @@
   </url>
   
   <url>
+    <loc>/tags/rstan/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/santa-fe/</loc>
     <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/stan/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
