@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Validacion on R en Rosario</title>
+    <link>/tags/validacion/</link>
+    <description>Recent content in Validacion on R en Rosario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/validacion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Me lo piden en Excel, pero igual lo hago en R</title>
+      <link>/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</guid>
+      <description>&lt;p&gt;Excel es, sin lugar a dudas, el software más generalmente utilizado para almacenar y compartir planillas de datos. En muchos ámbitos de trabajo se invierte rutinariamente mucho tiempo en crear libros de Excel a partir de información entrante, preparando documentos de salida estandarizados para compartir con otras personas.&lt;/p&gt;
+
+&lt;p&gt;A partir de su experiencia laboral, Iván nos mostró las herramientas de R que le permitieron automatizar este tipo de tareas, ahorrando mucho tiempo de trabajo, evitando errores humanos y, además, con ciertos aditivos muy interesantes, como por ejemplo programar en R validaciones para evitar cargas de datos erróneas en las planillas de Excel.&lt;/p&gt;
+
+&lt;p&gt;El material se encuentra disponible en nuestro &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20191107%20Combinando%20R%20y%20Excel&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Iván es Licenciado en Estadística de la Universidad Nacional de Rosario. Fue distinguido en el 2017 como el egresado de mejor promedio de toda la universidad. Actualmente trabaja en OZ Digital Consulting, donde forma parte del equipo de Analytics &amp;amp; CI.&lt;/p&gt;
+
+&lt;p&gt;Agradecemos a San Cristóbal Seguros, particularmente a Pablo, Leandro y Seba, por habernos abierto sus puertas y darnos tan grato recibimiento y a todas las personas que se acercaron, hemos disfrutado de un gran momento!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
