@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>App</title>
+      <link>/tags/app/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automatizacion</title>
       <link>/tags/automatizacion/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
@@ -219,6 +228,15 @@
     </item>
     
     <item>
+      <title>Shiny</title>
+      <link>/tags/shiny/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stan</title>
       <link>/tags/stan/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
@@ -269,6 +287,15 @@
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/visualizacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>/tags/web/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/web/</guid>
       <description></description>
     </item>
     
