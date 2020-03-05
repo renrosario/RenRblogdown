@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rprojects on R en Rosario</title>
-    <link>/tags/rprojects/</link>
+    <link>https://renrosario.rbind.io/tags/rprojects/</link>
     <description>Recent content in Rprojects on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/rprojects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://renrosario.rbind.io/tags/rprojects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Segundo meetup: Trabajo reproducible en R</title>
-      <link>/2018/12/segundo-meetup-trabajo-reproducible-en-r/</link>
+      <link>https://renrosario.rbind.io/2018/12/segundo-meetup-trabajo-reproducible-en-r/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/12/segundo-meetup-trabajo-reproducible-en-r/</guid>
+      <guid>https://renrosario.rbind.io/2018/12/segundo-meetup-trabajo-reproducible-en-r/</guid>
       <description>&lt;p&gt;Nico Ballarini nos visitó y enseñó a usar R para que nuestro trabajo sea reproducible.&lt;/p&gt;</description>
     </item>
     

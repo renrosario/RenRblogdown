@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Excel on R en Rosario</title>
-    <link>/tags/excel/</link>
+    <link>https://renrosario.rbind.io/tags/excel/</link>
     <description>Recent content in Excel on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://renrosario.rbind.io/tags/excel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Me lo piden en Excel, pero igual lo hago en R</title>
-      <link>/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</link>
+      <link>https://renrosario.rbind.io/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</guid>
+      <guid>https://renrosario.rbind.io/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</guid>
       <description>&lt;p&gt;Excel es, sin lugar a dudas, el software más generalmente utilizado para almacenar y compartir planillas de datos. En muchos ámbitos de trabajo se invierte rutinariamente mucho tiempo en crear libros de Excel a partir de información entrante, preparando documentos de salida estandarizados para compartir con otras personas.&lt;/p&gt;
 
 &lt;p&gt;A partir de su experiencia laboral, Iván nos mostró las herramientas de R que le permitieron automatizar este tipo de tareas, ahorrando mucho tiempo de trabajo, evitando errores humanos y, además, con ciertos aditivos muy interesantes, como por ejemplo programar en R validaciones para evitar cargas de datos erróneas en las planillas de Excel.&lt;/p&gt;

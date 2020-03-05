@@ -2,300 +2,327 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on R en Rosario</title>
-    <link>/tags/</link>
+    <link>https://renrosario.rbind.io/tags/</link>
     <description>Recent content in Tags on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://renrosario.rbind.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Acerca</title>
-      <link>/tags/acerca/</link>
+      <link>https://renrosario.rbind.io/tags/acerca/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/acerca/</guid>
+      <guid>https://renrosario.rbind.io/tags/acerca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>App</title>
-      <link>/tags/app/</link>
+      <link>https://renrosario.rbind.io/tags/app/</link>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/app/</guid>
+      <guid>https://renrosario.rbind.io/tags/app/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatizacion</title>
-      <link>/tags/automatizacion/</link>
+      <link>https://renrosario.rbind.io/tags/automatizacion/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/automatizacion/</guid>
+      <guid>https://renrosario.rbind.io/tags/automatizacion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesplot</title>
-      <link>/tags/bayesplot/</link>
+      <link>https://renrosario.rbind.io/tags/bayesplot/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/bayesplot/</guid>
+      <guid>https://renrosario.rbind.io/tags/bayesplot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comunidad</title>
-      <link>/tags/comunidad/</link>
+      <link>https://renrosario.rbind.io/tags/comunidad/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/comunidad/</guid>
+      <guid>https://renrosario.rbind.io/tags/comunidad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conducta</title>
-      <link>/tags/conducta/</link>
+      <link>https://renrosario.rbind.io/tags/conducta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/conducta/</guid>
+      <guid>https://renrosario.rbind.io/tags/conducta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Encuentros</title>
-      <link>/tags/encuentros/</link>
-      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <link>https://renrosario.rbind.io/tags/encuentros/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/encuentros/</guid>
+      <guid>https://renrosario.rbind.io/tags/encuentros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Excel</title>
-      <link>/tags/excel/</link>
+      <link>https://renrosario.rbind.io/tags/excel/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/excel/</guid>
+      <guid>https://renrosario.rbind.io/tags/excel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ggplot2</title>
-      <link>/tags/ggplot2/</link>
+      <link>https://renrosario.rbind.io/tags/ggplot2/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ggplot2/</guid>
+      <guid>https://renrosario.rbind.io/tags/ggplot2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imputacion</title>
-      <link>/tags/imputacion/</link>
+      <link>https://renrosario.rbind.io/tags/imputacion/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/imputacion/</guid>
+      <guid>https://renrosario.rbind.io/tags/imputacion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inferencia Bayesiana</title>
-      <link>/tags/inferencia-bayesiana/</link>
+      <link>https://renrosario.rbind.io/tags/inferencia-bayesiana/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/inferencia-bayesiana/</guid>
+      <guid>https://renrosario.rbind.io/tags/inferencia-bayesiana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keras</title>
+      <link>https://renrosario.rbind.io/tags/keras/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/tags/keras/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latin R</title>
-      <link>/tags/latin-r/</link>
+      <link>https://renrosario.rbind.io/tags/latin-r/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/latin-r/</guid>
+      <guid>https://renrosario.rbind.io/tags/latin-r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meetup</title>
-      <link>/tags/meetup/</link>
+      <link>https://renrosario.rbind.io/tags/meetup/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/meetup/</guid>
+      <guid>https://renrosario.rbind.io/tags/meetup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mision</title>
-      <link>/tags/mision/</link>
+      <link>https://renrosario.rbind.io/tags/mision/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/mision/</guid>
+      <guid>https://renrosario.rbind.io/tags/mision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Normalizacion De Datos Geneticos</title>
-      <link>/tags/normalizacion-de-datos-geneticos/</link>
+      <link>https://renrosario.rbind.io/tags/normalizacion-de-datos-geneticos/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/normalizacion-de-datos-geneticos/</guid>
+      <guid>https://renrosario.rbind.io/tags/normalizacion-de-datos-geneticos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Objetivos</title>
-      <link>/tags/objetivos/</link>
+      <link>https://renrosario.rbind.io/tags/objetivos/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/objetivos/</guid>
+      <guid>https://renrosario.rbind.io/tags/objetivos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Organización</title>
-      <link>/tags/organizaci%C3%B3n/</link>
+      <link>https://renrosario.rbind.io/tags/organizaci%C3%B3n/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/organizaci%C3%B3n/</guid>
+      <guid>https://renrosario.rbind.io/tags/organizaci%C3%B3n/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paquetes</title>
-      <link>/tags/paquetes/</link>
+      <link>https://renrosario.rbind.io/tags/paquetes/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/paquetes/</guid>
+      <guid>https://renrosario.rbind.io/tags/paquetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Consortium</title>
-      <link>/tags/r-consortium/</link>
+      <link>https://renrosario.rbind.io/tags/r-consortium/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r-consortium/</guid>
+      <guid>https://renrosario.rbind.io/tags/r-consortium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Ladies</title>
-      <link>/tags/r-ladies/</link>
+      <link>https://renrosario.rbind.io/tags/r-ladies/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r-ladies/</guid>
+      <guid>https://renrosario.rbind.io/tags/r-ladies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redes Neuronales</title>
+      <link>https://renrosario.rbind.io/tags/redes-neuronales/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/tags/redes-neuronales/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rmarkdown</title>
-      <link>/tags/rmarkdown/</link>
+      <link>https://renrosario.rbind.io/tags/rmarkdown/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rmarkdown/</guid>
+      <guid>https://renrosario.rbind.io/tags/rmarkdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rprojects</title>
-      <link>/tags/rprojects/</link>
+      <link>https://renrosario.rbind.io/tags/rprojects/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rprojects/</guid>
+      <guid>https://renrosario.rbind.io/tags/rprojects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rstan</title>
-      <link>/tags/rstan/</link>
+      <link>https://renrosario.rbind.io/tags/rstan/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rstan/</guid>
+      <guid>https://renrosario.rbind.io/tags/rstan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Santa Fe</title>
-      <link>/tags/santa-fe/</link>
+      <link>https://renrosario.rbind.io/tags/santa-fe/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/santa-fe/</guid>
+      <guid>https://renrosario.rbind.io/tags/santa-fe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shiny</title>
-      <link>/tags/shiny/</link>
+      <link>https://renrosario.rbind.io/tags/shiny/</link>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/shiny/</guid>
+      <guid>https://renrosario.rbind.io/tags/shiny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stan</title>
-      <link>/tags/stan/</link>
+      <link>https://renrosario.rbind.io/tags/stan/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/stan/</guid>
+      <guid>https://renrosario.rbind.io/tags/stan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://renrosario.rbind.io/tags/tensorflow/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/tags/tensorflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trabajo Reproducible</title>
-      <link>/tags/trabajo-reproducible/</link>
+      <link>https://renrosario.rbind.io/tags/trabajo-reproducible/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/trabajo-reproducible/</guid>
+      <guid>https://renrosario.rbind.io/tags/trabajo-reproducible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Validacion</title>
-      <link>/tags/validacion/</link>
+      <link>https://renrosario.rbind.io/tags/validacion/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/validacion/</guid>
+      <guid>https://renrosario.rbind.io/tags/validacion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vision</title>
-      <link>/tags/vision/</link>
+      <link>https://renrosario.rbind.io/tags/vision/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/vision/</guid>
+      <guid>https://renrosario.rbind.io/tags/vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visitas</title>
-      <link>/tags/visitas/</link>
+      <link>https://renrosario.rbind.io/tags/visitas/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/visitas/</guid>
+      <guid>https://renrosario.rbind.io/tags/visitas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualizacion</title>
-      <link>/tags/visualizacion/</link>
+      <link>https://renrosario.rbind.io/tags/visualizacion/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/visualizacion/</guid>
+      <guid>https://renrosario.rbind.io/tags/visualizacion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>/tags/web/</link>
+      <link>https://renrosario.rbind.io/tags/web/</link>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/web/</guid>
+      <guid>https://renrosario.rbind.io/tags/web/</guid>
       <description></description>
     </item>
     
