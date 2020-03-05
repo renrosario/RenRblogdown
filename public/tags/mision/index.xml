@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mision on R en Rosario</title>
-    <link>/tags/mision/</link>
+    <link>https://renrosario.rbind.io/tags/mision/</link>
     <description>Recent content in Mision on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/mision/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://renrosario.rbind.io/tags/mision/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quiénes Somos</title>
-      <link>/quienes-somos/</link>
+      <link>https://renrosario.rbind.io/quienes-somos/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/quienes-somos/</guid>
+      <guid>https://renrosario.rbind.io/quienes-somos/</guid>
       <description>Misión Este grupo surge con la misión de conectar a les usuaries de R en la ciudad de Rosario, Argentina, independientemente de su grado de conocimiento sobre el software y el ámbito de aplicación del mismo. Pretendemos promover el uso del lenguaje de programación R, apoyar el desarrollo de esta comunidad de usuaries para compartir experiencias, promover el aprendizaje continuo y favorecer la creación de proyectos interdisciplinarios.
 Visión Creamos esta comunidad con el ideal de brindar un espacio social activo e inclusivo, cuyes integrantes se encuentren predispuestos a trabajar en forma colaborativa y constructiva, compartiendo conocimientos e intercambiando opiniones en forma respetuosa y con la finalidad común de ampliar y promover el uso de R en diversas disciplinas que puedan sacar partido de las herramientas que dicho software libre provee.</description>
     </item>

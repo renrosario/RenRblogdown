@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keras on R en Rosario</title>
+    <link>https://renrosario.rbind.io/tags/keras/</link>
+    <description>Recent content in Keras on R en Rosario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://renrosario.rbind.io/tags/keras/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Con R de Redes Neuronales</title>
+      <link>https://renrosario.rbind.io/2020/03/con-r-de-redes-neuronales/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/2020/03/con-r-de-redes-neuronales/</guid>
+      <description>&lt;p&gt;La nueva década empezó con todo para R en Rosario! &lt;a href=&#34;https://rladies.org/argentina-rladies/name/emilia-gibellini/&#34;&gt;Emilia Gibellini&lt;/a&gt; nos brindó un grandioso taller sobre Redes Neuronales Artificiales usando R y TensorFlow. Sin esquivarle a la &lt;strong&gt;caja negra&lt;/strong&gt;, nos explicó que es lo que pasa en el detrás de escena de estos algoritmos, nos compartió un ejemplo de aplicación y nos dijo que &lt;em&gt;cualquier parecido con las funciones de enlace de los MLG no es pura coincidencia&lt;/em&gt;!!&lt;/p&gt;
+
+&lt;p&gt;Todo el material se encuentra disponible en nuestro &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20200302_redes_neuronales_emilia_gibellini&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Emilia estudió Licenciatura en Estadística en Rosario y actualmente se desempeña como científica de datos en Telecom, Buenos Aires, como parte del equipo de STEM, donde analiza tendencias de tráfico y busca insights que se usan para desarrollar mejoras tecnológicas. Es co-organizadora de &lt;a href=&#34;https://twitter.com/wimlds_ba&#34;&gt;WIMLDS (Women in Machine Learning and Data Science) Buenos Aires&lt;/a&gt; y participa de &lt;a href=&#34;https://twitter.com/rladiesba&#34;&gt;R-Ladies Buenos Aires&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Agradecemos especialemente a OZ Digital Consulting que nos recibió en sus instalaciones de Rosario y nos agazajó con con algunas cositas para comer y beber!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

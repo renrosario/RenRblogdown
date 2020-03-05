@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latin R on R en Rosario</title>
-    <link>/tags/latin-r/</link>
+    <link>https://renrosario.rbind.io/tags/latin-r/</link>
     <description>Recent content in Latin R on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/latin-r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://renrosario.rbind.io/tags/latin-r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>¡Participamos de Latin-R!</title>
-      <link>/2018/09/participamos-de-latin-r/</link>
+      <link>https://renrosario.rbind.io/2018/09/participamos-de-latin-r/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/09/participamos-de-latin-r/</guid>
+      <guid>https://renrosario.rbind.io/2018/09/participamos-de-latin-r/</guid>
       <description>&lt;p&gt;Entre el 3 y 5 de septiembre tuvimos la alegría de participar de &lt;a href=&#34;http://latin-r.com/&#34;&gt;Latin-R&lt;/a&gt;, la primera Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo.&lt;/p&gt;</description>
     </item>
     
