@@ -6,10 +6,34 @@
     <description>Recent content in Meetup on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://renrosario.rbind.io/categories/meetup/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Webscraping usando RSelenium y rvest</title>
+      <link>https://renrosario.rbind.io/2020/08/webscraping-rselnium-rvest/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/2020/08/webscraping-rselnium-rvest/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ivanmillanes.netlify.app/&#34;&gt;Iván Millanes&lt;/a&gt; (Lic. en Estadística, UNR) se puso la 10 una vez más y compartió un gran tutorial acerca del uso RSelenium y rvest para tomar datos de la web. Si te perdiste este gran encuentro virtual, pasate &lt;a href=&#34;https://ivanmillanes.netlify.app/post/2020-06-30-webscraping-with-rselenium-and-rvest/&#34;&gt;esta página&lt;/a&gt; de su blog para ver el ejemplo desarrollado por completo con todos los comentarios pertinente y descargá el material desde &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20200820_webscraping_ivan_millanes&#34;&gt;nuestro GitHub&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Un 9 de julio para independizarse de las tediosas tareas repetitivas</title>
+      <link>https://renrosario.rbind.io/2020/07/rmarkdown-y-alquileres/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/2020/07/rmarkdown-y-alquileres/</guid>
+      <description>&lt;p&gt;En el Día de la Independencia tuvimos nuestro primer encuentro virtual: la cuarentena no pudo vencernos y, aunque a distancia y sin la tradicional salidita posterior a calle Pellegrini, nos reencontramos para compartir un nuevo taller.&lt;/p&gt;
+
+&lt;p&gt;Esta vez la jornada se repartió en dos bloques. El primero de ellos a cargo de los hermanos Esteban y Franco Cometto, ambos estadísticos. Nos mostraron cómo obtener datos sobre alquileres en Rosario desde la web. El material &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20200709_alquileresweb_cometto&#34;&gt;está acá&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;El segundo turno fue para Fede Izzo, Ingeniero Agrónomo, que compartió un tutorial sobre RMarkdown, repasando el uso básico de este sistema y haciendo foco en la generación automática de múltiples reportes. El material &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20200709_rmd_fede_izzo&#34;&gt;está acá&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;No pierdas la oportunidad de chusmear estos muy buenos ejemplos.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Con R de Redes Neuronales</title>
