@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://renrosario.rbind.io/2021/02/purr-datatable/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://renrosario.rbind.io/2020/12/georref-dashboard/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
@@ -158,6 +163,12 @@
   </url>
   
   <url>
+    <loc>https://renrosario.rbind.io/tags/data.table/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://renrosario.rbind.io/tags/encuentros/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -249,7 +260,7 @@
   
   <url>
     <loc>https://renrosario.rbind.io/categories/meetup/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -285,7 +296,19 @@
   
   <url>
     <loc>https://renrosario.rbind.io/post/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://renrosario.rbind.io/tags/programaci%C3%B3n-funcional/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://renrosario.rbind.io/tags/purrr/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -303,7 +326,7 @@
   
   <url>
     <loc>https://renrosario.rbind.io/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

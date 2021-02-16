@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data.table on R en Rosario</title>
+    <link>https://renrosario.rbind.io/tags/data.table/</link>
+    <description>Recent content in Data.table on R en Rosario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://renrosario.rbind.io/tags/data.table/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taller 2x1 sobre purrr y data.table</title>
+      <link>https://renrosario.rbind.io/2021/02/purr-datatable/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/2021/02/purr-datatable/</guid>
+      <description>&lt;p&gt;¡El 2021 arrancó con todo! ¡Dos talleres juntos para aprender acercade paquetes muy útiles!&lt;/p&gt;
+
+&lt;p&gt;Por un lado, Ignacio Evangelista mostró cómo se usa &lt;strong&gt;purrr&lt;/strong&gt;, una librería que facilita la programación funcional en R. Por otro, Guillermo García presentó &lt;strong&gt;data.table&lt;/strong&gt; como la evolución de los data.frames, con mejoras de performance y funcionalidad.
+Los materiales de estas charlas imperdibles se pueden encontrar &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20210217_menos_for_mas_purrr&#34;&gt;acá&lt;/a&gt; y &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20210217_datatable&#34;&gt;acá&lt;/a&gt;, respectivamente.&lt;/p&gt;
+
+&lt;p&gt;Ambos disertantes son ingenieros y se desempeñan como científicos de datos en COFCO International.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

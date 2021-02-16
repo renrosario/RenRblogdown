@@ -75,6 +75,15 @@
     </item>
     
     <item>
+      <title>Data.table</title>
+      <link>https://renrosario.rbind.io/tags/data.table/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/tags/data.table/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Encuentros</title>
       <link>https://renrosario.rbind.io/tags/encuentros/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
@@ -251,6 +260,24 @@
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://renrosario.rbind.io/tags/paquetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programación Funcional</title>
+      <link>https://renrosario.rbind.io/tags/programaci%C3%B3n-funcional/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/tags/programaci%C3%B3n-funcional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purrr</title>
+      <link>https://renrosario.rbind.io/tags/purrr/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/tags/purrr/</guid>
       <description></description>
     </item>
     
