@@ -1,5 +1,5 @@
 ---
-title: 'Taller 2x1: purrr + data.table'
+title: Taller 2x1 sobre purrr y data.table
 author: mrqtsp
 date: '2021-02-17'
 slug: purr-datatable
@@ -9,7 +9,6 @@ tags:
     - purrr
     - data.table
     - programación funcional
-    - meetup
 thumbnailImagePosition: left
 thumbnailImage: "/img/20210217/purrdatatable.png"
 gallery:
