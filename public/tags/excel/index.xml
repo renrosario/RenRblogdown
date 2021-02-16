@@ -6,10 +6,19 @@
     <description>Recent content in Excel on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://renrosario.rbind.io/tags/excel/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Importando datos desde hojas de cálculo</title>
+      <link>https://renrosario.rbind.io/2020/10/importando-excel/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/2020/10/importando-excel/</guid>
+      <description>&lt;p&gt;En este año donde muchas cosas no se dieron como se planearon inicialmente, la edición del congreso &lt;a href=&#34;https://latin-r.com&#34;&gt;LatinR&lt;/a&gt; fue virtual. Gracias a esto, distintos grupos de usaries de R de Latinoamerica pudieron unirse para hostear los variados talleres ofrecidos. Es así que tuvimos el lujo de participar, junto a RLadies Puebla, RLadies Xalapa y RLadies Barranquilla, como anfitriones del taller &amp;ldquo;Importando datos desde hojas de cálculo&amp;rdquo;, dictado por el Dr. Luis Verde Arregoitia. El material está disponible &lt;a href=&#34;https://github.com/luisDVA/taller_xl&#34;&gt;acá&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Me lo piden en Excel, pero igual lo hago en R</title>

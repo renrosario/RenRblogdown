@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H20 on R en Rosario</title>
+    <link>https://renrosario.rbind.io/tags/h20/</link>
+    <description>Recent content in H20 on R en Rosario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://renrosario.rbind.io/tags/h20/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Retos en Fintech con R &#43; H2O</title>
+      <link>https://renrosario.rbind.io/2020/11/fintech-h20/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/2020/11/fintech-h20/</guid>
+      <description>&lt;p&gt;Desde México contamos con la visita virtual de Camila Burne, Licenciada en Estadística por la UNR, que actualmente se encuentra trabajando en startups relacionadas con el mundo fintech. Ella nos habló del paquete &lt;strong&gt;h2o&lt;/strong&gt;, una interfaz para R de la plataforma H2O, la cual ofrece implementaciones en paralelo de algoritmos de machine learning para aprendizaje supervisado y no supervisado, como por ejemplo GLM, random forest, redes neuronales profundas, Naive Bayes, entre tantos otros. En esta charla se mostraron aplicaciones de la herramienta h2o en problemas de fintech y bancos.&lt;/p&gt;
+
+&lt;p&gt;El material está disponible &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20201125%20Retos%20en%20fintech&#34;&gt;en este enlace&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

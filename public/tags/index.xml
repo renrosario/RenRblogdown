@@ -77,7 +77,7 @@
     <item>
       <title>Encuentros</title>
       <link>https://renrosario.rbind.io/tags/encuentros/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://renrosario.rbind.io/tags/encuentros/</guid>
       <description></description>
@@ -86,9 +86,36 @@
     <item>
       <title>Excel</title>
       <link>https://renrosario.rbind.io/tags/excel/</link>
-      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://renrosario.rbind.io/tags/excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fintech</title>
+      <link>https://renrosario.rbind.io/tags/fintech/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/tags/fintech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexdashboard</title>
+      <link>https://renrosario.rbind.io/tags/flexdashboard/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/tags/flexdashboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Georreferenciación</title>
+      <link>https://renrosario.rbind.io/tags/georreferenciaci%C3%B3n/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/tags/georreferenciaci%C3%B3n/</guid>
       <description></description>
     </item>
     
@@ -98,6 +125,24 @@
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://renrosario.rbind.io/tags/ggplot2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H20</title>
+      <link>https://renrosario.rbind.io/tags/h20/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/tags/h20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Importar</title>
+      <link>https://renrosario.rbind.io/tags/importar/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/tags/importar/</guid>
       <description></description>
     </item>
     
@@ -134,6 +179,24 @@
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://renrosario.rbind.io/tags/latin-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latinr</title>
+      <link>https://renrosario.rbind.io/tags/latinr/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/tags/latinr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://renrosario.rbind.io/tags/machine-learning/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -237,6 +300,15 @@
     </item>
     
     <item>
+      <title>Rselenium</title>
+      <link>https://renrosario.rbind.io/tags/rselenium/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/tags/rselenium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rstan</title>
       <link>https://renrosario.rbind.io/tags/rstan/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
@@ -269,6 +341,15 @@
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://renrosario.rbind.io/tags/stan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startup</title>
+      <link>https://renrosario.rbind.io/tags/startup/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/tags/startup/</guid>
       <description></description>
     </item>
     

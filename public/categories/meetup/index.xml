@@ -6,10 +6,41 @@
     <description>Recent content in Meetup on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://renrosario.rbind.io/categories/meetup/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Georreferenciación y presentación de resultados con RSelenium y flexdashboard</title>
+      <link>https://renrosario.rbind.io/2020/12/georref-dashboard/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/2020/12/georref-dashboard/</guid>
+      <description>&lt;p&gt;R en Rosario cerró el 2020 con una charla sobre Georreferencia y creación de Dashboards. Las integrantes del equipo del Sistema Municipal de Epidemiología, dependiente de la Secretaría de Salud Pública de la Municipalidad de Rosario, nos contaron su experiencia en la aplicación de estas herramientas. El evento fue auspiciado y co-organizado por R en Rosario, La Usina Social y el Instituto de Salud Colectiva.&lt;/p&gt;
+
+&lt;p&gt;El material está disponible &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20201221%20GeoRef%20RSelenium%20Dashboard&#34;&gt;en este enlace&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Retos en Fintech con R &#43; H2O</title>
+      <link>https://renrosario.rbind.io/2020/11/fintech-h20/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/2020/11/fintech-h20/</guid>
+      <description>&lt;p&gt;Desde México contamos con la visita virtual de Camila Burne, Licenciada en Estadística por la UNR, que actualmente se encuentra trabajando en startups relacionadas con el mundo fintech. Ella nos habló del paquete &lt;strong&gt;h2o&lt;/strong&gt;, una interfaz para R de la plataforma H2O, la cual ofrece implementaciones en paralelo de algoritmos de machine learning para aprendizaje supervisado y no supervisado, como por ejemplo GLM, random forest, redes neuronales profundas, Naive Bayes, entre tantos otros. En esta charla se mostraron aplicaciones de la herramienta h2o en problemas de fintech y bancos.&lt;/p&gt;
+
+&lt;p&gt;El material está disponible &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20201125%20Retos%20en%20fintech&#34;&gt;en este enlace&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Importando datos desde hojas de cálculo</title>
+      <link>https://renrosario.rbind.io/2020/10/importando-excel/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://renrosario.rbind.io/2020/10/importando-excel/</guid>
+      <description>&lt;p&gt;En este año donde muchas cosas no se dieron como se planearon inicialmente, la edición del congreso &lt;a href=&#34;https://latin-r.com&#34;&gt;LatinR&lt;/a&gt; fue virtual. Gracias a esto, distintos grupos de usaries de R de Latinoamerica pudieron unirse para hostear los variados talleres ofrecidos. Es así que tuvimos el lujo de participar, junto a RLadies Puebla, RLadies Xalapa y RLadies Barranquilla, como anfitriones del taller &amp;ldquo;Importando datos desde hojas de cálculo&amp;rdquo;, dictado por el Dr. Luis Verde Arregoitia. El material está disponible &lt;a href=&#34;https://github.com/luisDVA/taller_xl&#34;&gt;acá&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Webscraping usando RSelenium y rvest</title>
