@@ -303,14 +303,14 @@
   </url>
   
   <url>
-    <loc>/tags/meetup/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
+    <loc>/categories/meetup/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/meetup/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <loc>/tags/meetup/</loc>
+    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
