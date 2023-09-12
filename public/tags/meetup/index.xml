@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meetup on R en Rosario</title>
-    <link>https://renrosario.rbind.io/tags/meetup/</link>
+    <link>/tags/meetup/</link>
     <description>Recent content in Meetup on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://renrosario.rbind.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Encuentro variadito: 2x1</title>
-      <link>https://renrosario.rbind.io/2019/05/encuentro-variadito-2x1/</link>
+      <link>/2019/05/encuentro-variadito-2x1/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2019/05/encuentro-variadito-2x1/</guid>
+      <guid>/2019/05/encuentro-variadito-2x1/</guid>
       <description>&lt;p&gt;En el cuarto encuentro de nuestro grupo tuvimos un excelente combinado con dos charlas al precio de una&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Taller sobre Visualización con ggplot2</title>
-      <link>https://renrosario.rbind.io/2019/03/taller-ggplot2/</link>
+      <link>/2019/03/taller-ggplot2/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2019/03/taller-ggplot2/</guid>
+      <guid>/2019/03/taller-ggplot2/</guid>
       <description>&lt;p&gt;Celebrando Día Internacional de la Mujer y so rol en la ciencia de datos, tuvimos el primer encuentro del año y nos dedicamos a aprender cómo realizar gráficos con &lt;strong&gt;ggplot2&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Primer meetup realizado!</title>
-      <link>https://renrosario.rbind.io/2018/10/primer-meetup-realizado/</link>
+      <link>/2018/10/primer-meetup-realizado/</link>
       <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/10/primer-meetup-realizado/</guid>
+      <guid>/2018/10/primer-meetup-realizado/</guid>
       <description>&lt;p&gt;¡Finalmente nos conocimos las caras en el primer encuentro! Entrá para enterarte qué paso en la juntada.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Primer Meetup</title>
-      <link>https://renrosario.rbind.io/2018/10/primermeetup/</link>
+      <link>/2018/10/primermeetup/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/10/primermeetup/</guid>
+      <guid>/2018/10/primermeetup/</guid>
       <description>&lt;p&gt;¡Llegó el momento de nuestro primer Meetup oficial! No te quedes afuera.&lt;/p&gt;</description>
     </item>
     

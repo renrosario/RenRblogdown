@@ -15,7 +15,7 @@ gallery:
     - /img/20210217/purrdatatable.png
 ---
 
-¡El 2021 arrancó con todo! ¡Dos talleres juntos para aprender acercade paquetes muy útiles!
+¡El 2021 arrancó con todo! ¡Dos talleres juntos para aprender acerca de paquetes muy útiles!
 
 Por un lado, Ignacio Evangelista mostró cómo se usa **purrr**, una librería que facilita la programación funcional en R. Por otro, Guillermo García presentó **data.table** como la evolución de los data.frames, con mejoras de performance y funcionalidad. 
 Los materiales de estas charlas imperdibles se pueden encontrar [acá](https://github.com/renrosario/Presentaciones/tree/master/20210217_menos_for_mas_purrr) y [acá](https://github.com/renrosario/Presentaciones/tree/master/20210217_datatable), respectivamente.

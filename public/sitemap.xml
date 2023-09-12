@@ -3,437 +3,483 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://renrosario.rbind.io/2021/02/purr-datatable/</loc>
+    <loc>/2021/07/rmarkdown-excel-catalogo/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2021/03/leaflet-sf-radios/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2021/02/purr-datatable/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2020/12/georref-dashboard/</loc>
+    <loc>/2020/12/georref-dashboard/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2020/11/fintech-h20/</loc>
+    <loc>/2020/11/fintech-h20/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2020/10/importando-excel/</loc>
+    <loc>/2020/10/importando-excel/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2020/08/webscraping-rselnium-rvest/</loc>
+    <loc>/2020/08/webscraping-rselnium-rvest/</loc>
     <lastmod>2020-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2020/07/rmarkdown-y-alquileres/</loc>
+    <loc>/2020/07/rmarkdown-y-alquileres/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2020/03/con-r-de-redes-neuronales/</loc>
+    <loc>/2020/03/con-r-de-redes-neuronales/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2019/12/un-taller-brillante/</loc>
+    <loc>/2019/12/un-taller-brillante/</loc>
     <lastmod>2019-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</loc>
+    <loc>/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</loc>
     <lastmod>2019-11-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2019/08/rstan-intro-a-la-inferencia-bayesiana-en-r/</loc>
+    <loc>/2019/08/rstan-intro-a-la-inferencia-bayesiana-en-r/</loc>
     <lastmod>2019-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2019/05/encuentro-variadito-2x1/</loc>
+    <loc>/2019/05/encuentro-variadito-2x1/</loc>
     <lastmod>2019-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2019/03/taller-ggplot2/</loc>
+    <loc>/2019/03/taller-ggplot2/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2018/12/segundo-meetup-trabajo-reproducible-en-r/</loc>
+    <loc>/2018/12/segundo-meetup-trabajo-reproducible-en-r/</loc>
     <lastmod>2018-12-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2018/10/primer-meetup-realizado/</loc>
+    <loc>/2018/10/primer-meetup-realizado/</loc>
     <lastmod>2018-10-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2018/10/primermeetup/</loc>
+    <loc>/2018/10/primermeetup/</loc>
     <lastmod>2018-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2018/10/rconsortium/</loc>
+    <loc>/2018/10/rconsortium/</loc>
     <lastmod>2018-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2018/09/ultimando-detalles/</loc>
+    <loc>/2018/09/ultimando-detalles/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2018/09/visitamos-a-r-ladies-santa-fe/</loc>
+    <loc>/2018/09/visitamos-a-r-ladies-santa-fe/</loc>
     <lastmod>2018-09-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2018/09/primer-encuentro-de-r-en-rosario/</loc>
+    <loc>/2018/09/primer-encuentro-de-r-en-rosario/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/quienes-somos/</loc>
+    <loc>/quienes-somos/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/2018/09/participamos-de-latin-r/</loc>
+    <loc>/2018/09/participamos-de-latin-r/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/acerca/</loc>
+    <loc>/tags/acerca/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/alquileres/</loc>
+    <loc>/tags/alquileres/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/app/</loc>
+    <loc>/tags/app/</loc>
     <lastmod>2019-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/archives/</loc>
+    <loc>/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/automatizacion/</loc>
+    <loc>/tags/automatizacion/</loc>
     <lastmod>2020-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/bayesplot/</loc>
+    <loc>/tags/automatizaci%C3%B3n/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bayesplot/</loc>
     <lastmod>2019-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/categories/</loc>
+    <loc>/tags/catalogo/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/comunidad/</loc>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/comunidad/</loc>
     <lastmod>2018-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/conducta/</loc>
+    <loc>/tags/conducta/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/codigo-de-conducta/</loc>
+    <loc>/codigo-de-conducta/</loc>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/data.table/</loc>
+    <loc>/tags/data.table/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/encuentros/</loc>
+    <loc>/tags/encuentros/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/excel/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <loc>/tags/excel/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/fintech/</loc>
+    <loc>/tags/fintech/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/flexdashboard/</loc>
+    <loc>/tags/flexdashboard/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/georreferenciaci%C3%B3n/</loc>
+    <loc>/tags/georreferenciaci%C3%B3n/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/ggplot2/</loc>
+    <loc>/tags/ggplot2/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/h20/</loc>
+    <loc>/tags/h20/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/importar/</loc>
+    <loc>/tags/importar/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/imputacion/</loc>
+    <loc>/tags/imputacion/</loc>
     <lastmod>2019-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/inferencia-bayesiana/</loc>
+    <loc>/tags/indicadores/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/inferencia-bayesiana/</loc>
     <lastmod>2019-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/keras/</loc>
+    <loc>/tags/keras/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/latin-r/</loc>
+    <loc>/tags/latin-r/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/latinr/</loc>
+    <loc>/tags/latinr/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/machine-learning/</loc>
+    <loc>/tags/leaflet/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/meetup/</loc>
+    <loc>/tags/meetup/</loc>
     <lastmod>2019-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/categories/meetup/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <loc>/categories/meetup/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/mision/</loc>
+    <loc>/tags/mision/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/normalizacion-de-datos-geneticos/</loc>
+    <loc>/tags/normalizacion-de-datos-geneticos/</loc>
     <lastmod>2019-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/objetivos/</loc>
+    <loc>/tags/objetivos/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/organizaci%C3%B3n/</loc>
+    <loc>/tags/organizaci%C3%B3n/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/paquetes/</loc>
+    <loc>/tags/paquetes/</loc>
     <lastmod>2018-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/post/</loc>
+    <loc>/post/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/programaci%C3%B3n-funcional/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/programaci%C3%B3n-funcional/</loc>
+    <loc>/tags/purrr/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/purrr/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://renrosario.rbind.io/tags/r-consortium/</loc>
+    <loc>/tags/r-consortium/</loc>
     <lastmod>2018-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/r-ladies/</loc>
+    <loc>/tags/r-ladies/</loc>
     <lastmod>2018-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/redes-neuronales/</loc>
+    <loc>/tags/radios-censales/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/redes-neuronales/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/rmarkdown/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <loc>/tags/rmarkdown/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/rprojects/</loc>
+    <loc>/tags/rprojects/</loc>
     <lastmod>2018-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/rselenium/</loc>
+    <loc>/tags/rselenium/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/rstan/</loc>
+    <loc>/tags/rstan/</loc>
     <lastmod>2019-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/santa-fe/</loc>
+    <loc>/tags/santa-fe/</loc>
     <lastmod>2018-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/shiny/</loc>
+    <loc>/tags/sf/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/shiny/</loc>
     <lastmod>2019-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/stan/</loc>
+    <loc>/tags/stan/</loc>
     <lastmod>2019-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/startup/</loc>
+    <loc>/tags/startup/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/tensorflow/</loc>
+    <loc>/tags/tensorflow/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/trabajo-reproducible/</loc>
+    <loc>/tags/trabajo-reproducible/</loc>
     <lastmod>2018-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/validacion/</loc>
+    <loc>/tags/validacion/</loc>
     <lastmod>2019-11-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/vision/</loc>
+    <loc>/tags/vision/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/visitas/</loc>
+    <loc>/tags/visitas/</loc>
     <lastmod>2018-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/visualizacion/</loc>
+    <loc>/tags/visualizacion/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/web/</loc>
+    <loc>/tags/web/</loc>
     <lastmod>2019-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://renrosario.rbind.io/tags/webscraping/</loc>
+    <loc>/tags/webscraping/</loc>
     <lastmod>2020-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web on R en Rosario</title>
-    <link>https://renrosario.rbind.io/tags/web/</link>
+    <link>/tags/web/</link>
     <description>Recent content in Web on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 19 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://renrosario.rbind.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/web/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Un taller brillante</title>
-      <link>https://renrosario.rbind.io/2019/12/un-taller-brillante/</link>
+      <link>/2019/12/un-taller-brillante/</link>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2019/12/un-taller-brillante/</guid>
+      <guid>/2019/12/un-taller-brillante/</guid>
       <description>&lt;p&gt;Un año brillante sólo podía despedirse con un encuentro brillante. Por eso, Diego tomó cartas en el asunto y compartió en el último meetup del 2020 un excelente taller sobre Shiny Apps. Aprendimos a crear aplicaciones web desde cero, viendo una vez más cómo podemos con la ayuda de R crear proyectos creativos e interesantes. Todo el material se encuentra disponible en nuestro &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20191218%20Taller%20de%20Shiny&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Diego Marfetán Molina es Licenciado en Estadística por la Universidad Nacional de Rosario y Magíster en Estadística por la Universidad de Georgia (EEUU). Actualmente trabaja en la Dirección de Estadística de la UNR y dicta cursos de R.&lt;/p&gt;

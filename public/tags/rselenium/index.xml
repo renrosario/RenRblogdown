@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rselenium on R en Rosario</title>
-    <link>https://renrosario.rbind.io/tags/rselenium/</link>
+    <link>/tags/rselenium/</link>
     <description>Recent content in Rselenium on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://renrosario.rbind.io/tags/rselenium/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/rselenium/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Georreferenciación y presentación de resultados con RSelenium y flexdashboard</title>
-      <link>https://renrosario.rbind.io/2020/12/georref-dashboard/</link>
+      <link>/2020/12/georref-dashboard/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2020/12/georref-dashboard/</guid>
+      <guid>/2020/12/georref-dashboard/</guid>
       <description>&lt;p&gt;R en Rosario cerró el 2020 con una charla sobre Georreferencia y creación de Dashboards. Las integrantes del equipo del Sistema Municipal de Epidemiología, dependiente de la Secretaría de Salud Pública de la Municipalidad de Rosario, nos contaron su experiencia en la aplicación de estas herramientas. El evento fue auspiciado y co-organizado por R en Rosario, La Usina Social y el Instituto de Salud Colectiva.&lt;/p&gt;
 
 &lt;p&gt;El material está disponible &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20201221%20GeoRef%20RSelenium%20Dashboard&#34;&gt;en este enlace&lt;/a&gt;.&lt;/p&gt;</description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R Consortium on R en Rosario</title>
-    <link>https://renrosario.rbind.io/tags/r-consortium/</link>
+    <link>/tags/r-consortium/</link>
     <description>Recent content in R Consortium on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://renrosario.rbind.io/tags/r-consortium/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/r-consortium/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>¡Ya formamos parte del R Consortium!</title>
-      <link>https://renrosario.rbind.io/2018/10/rconsortium/</link>
+      <link>/2018/10/rconsortium/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/10/rconsortium/</guid>
+      <guid>/2018/10/rconsortium/</guid>
       <description>&lt;p&gt;Desde el 1 de octubre de 2018 formamos parte oficialmente del programa de &lt;a href=&#34;https://www.r-consortium.org/&#34;&gt;R Consortium&lt;/a&gt; para Grupos de Usuaries de R (RUGs).&lt;/p&gt;</description>
     </item>
     

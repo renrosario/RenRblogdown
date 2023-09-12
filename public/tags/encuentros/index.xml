@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Encuentros on R en Rosario</title>
-    <link>https://renrosario.rbind.io/tags/encuentros/</link>
+    <link>/tags/encuentros/</link>
     <description>Recent content in Encuentros on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://renrosario.rbind.io/tags/encuentros/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/encuentros/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Importando datos desde hojas de cálculo</title>
-      <link>https://renrosario.rbind.io/2020/10/importando-excel/</link>
+      <link>/2020/10/importando-excel/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2020/10/importando-excel/</guid>
+      <guid>/2020/10/importando-excel/</guid>
       <description>&lt;p&gt;En este año donde muchas cosas no se dieron como se planearon inicialmente, la edición del congreso &lt;a href=&#34;https://latin-r.com&#34;&gt;LatinR&lt;/a&gt; fue virtual. Gracias a esto, distintos grupos de usaries de R de Latinoamerica pudieron unirse para hostear los variados talleres ofrecidos. Es así que tuvimos el lujo de participar, junto a RLadies Puebla, RLadies Xalapa y RLadies Barranquilla, como anfitriones del taller &amp;ldquo;Importando datos desde hojas de cálculo&amp;rdquo;, dictado por el Dr. Luis Verde Arregoitia. El material está disponible &lt;a href=&#34;https://github.com/luisDVA/taller_xl&#34;&gt;acá&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Webscraping usando RSelenium y rvest</title>
-      <link>https://renrosario.rbind.io/2020/08/webscraping-rselnium-rvest/</link>
+      <link>/2020/08/webscraping-rselnium-rvest/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2020/08/webscraping-rselnium-rvest/</guid>
+      <guid>/2020/08/webscraping-rselnium-rvest/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ivanmillanes.netlify.app/&#34;&gt;Iván Millanes&lt;/a&gt; (Lic. en Estadística, UNR) se puso la 10 una vez más y compartió un gran tutorial acerca del uso RSelenium y rvest para tomar datos de la web. Si te perdiste este gran encuentro virtual, pasate por &lt;a href=&#34;https://ivanmillanes.netlify.app/post/2020-06-30-webscraping-with-rselenium-and-rvest/&#34;&gt;esta página&lt;/a&gt; de su blog para ver el ejemplo desarrollado por completo con todos los comentarios pertinentes y descargá el material desde &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20200820_webscraping_ivan_millanes&#34;&gt;nuestro GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Un 9 de julio para independizarse de las tediosas tareas repetitivas</title>
-      <link>https://renrosario.rbind.io/2020/07/rmarkdown-y-alquileres/</link>
+      <link>/2020/07/rmarkdown-y-alquileres/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2020/07/rmarkdown-y-alquileres/</guid>
+      <guid>/2020/07/rmarkdown-y-alquileres/</guid>
       <description>&lt;p&gt;En el Día de la Independencia tuvimos nuestro primer encuentro virtual: la cuarentena no pudo vencernos y, aunque a distancia y sin la tradicional salidita posterior a calle Pellegrini, nos reencontramos para compartir un nuevo taller.&lt;/p&gt;
 
 &lt;p&gt;Esta vez la jornada se repartió en dos bloques. El primero de ellos a cargo de los hermanos Esteban y Franco Cometto, ambos estadísticos. Nos mostraron cómo obtener datos sobre alquileres en Rosario desde la web. El material &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20200709_alquileresweb_cometto&#34;&gt;está acá&lt;/a&gt;.&lt;/p&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>Con R de Redes Neuronales</title>
-      <link>https://renrosario.rbind.io/2020/03/con-r-de-redes-neuronales/</link>
+      <link>/2020/03/con-r-de-redes-neuronales/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2020/03/con-r-de-redes-neuronales/</guid>
+      <guid>/2020/03/con-r-de-redes-neuronales/</guid>
       <description>&lt;p&gt;La nueva década empezó con todo para R en Rosario! &lt;a href=&#34;https://rladies.org/argentina-rladies/name/emilia-gibellini/&#34;&gt;Emilia Gibellini&lt;/a&gt; nos brindó un grandioso taller sobre Redes Neuronales Artificiales usando R y TensorFlow. Sin esquivarle a la &lt;strong&gt;caja negra&lt;/strong&gt;, nos explicó qué es lo que pasa en el detrás de escena de estos algoritmos, nos compartió un ejemplo de aplicación y nos dijo que &lt;em&gt;cualquier parecido con las funciones de enlace de los MLG no es pura coincidencia&lt;/em&gt;!!&lt;/p&gt;
 
 &lt;p&gt;Todo el material se encuentra disponible en nuestro &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20200302_redes_neuronales_emilia_gibellini&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
@@ -61,73 +61,73 @@
     
     <item>
       <title>Encuentro variadito: 2x1</title>
-      <link>https://renrosario.rbind.io/2019/05/encuentro-variadito-2x1/</link>
+      <link>/2019/05/encuentro-variadito-2x1/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2019/05/encuentro-variadito-2x1/</guid>
+      <guid>/2019/05/encuentro-variadito-2x1/</guid>
       <description>&lt;p&gt;En el cuarto encuentro de nuestro grupo tuvimos un excelente combinado con dos charlas al precio de una&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Taller sobre Visualización con ggplot2</title>
-      <link>https://renrosario.rbind.io/2019/03/taller-ggplot2/</link>
+      <link>/2019/03/taller-ggplot2/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2019/03/taller-ggplot2/</guid>
+      <guid>/2019/03/taller-ggplot2/</guid>
       <description>&lt;p&gt;Celebrando Día Internacional de la Mujer y so rol en la ciencia de datos, tuvimos el primer encuentro del año y nos dedicamos a aprender cómo realizar gráficos con &lt;strong&gt;ggplot2&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Segundo meetup: Trabajo reproducible en R</title>
-      <link>https://renrosario.rbind.io/2018/12/segundo-meetup-trabajo-reproducible-en-r/</link>
+      <link>/2018/12/segundo-meetup-trabajo-reproducible-en-r/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/12/segundo-meetup-trabajo-reproducible-en-r/</guid>
+      <guid>/2018/12/segundo-meetup-trabajo-reproducible-en-r/</guid>
       <description>&lt;p&gt;Nico Ballarini nos visitó y enseñó a usar R para que nuestro trabajo sea reproducible.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Primer meetup realizado!</title>
-      <link>https://renrosario.rbind.io/2018/10/primer-meetup-realizado/</link>
+      <link>/2018/10/primer-meetup-realizado/</link>
       <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/10/primer-meetup-realizado/</guid>
+      <guid>/2018/10/primer-meetup-realizado/</guid>
       <description>&lt;p&gt;¡Finalmente nos conocimos las caras en el primer encuentro! Entrá para enterarte qué paso en la juntada.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Primer Meetup</title>
-      <link>https://renrosario.rbind.io/2018/10/primermeetup/</link>
+      <link>/2018/10/primermeetup/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/10/primermeetup/</guid>
+      <guid>/2018/10/primermeetup/</guid>
       <description>&lt;p&gt;¡Llegó el momento de nuestro primer Meetup oficial! No te quedes afuera.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Ultimando detalles</title>
-      <link>https://renrosario.rbind.io/2018/09/ultimando-detalles/</link>
+      <link>/2018/09/ultimando-detalles/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/09/ultimando-detalles/</guid>
+      <guid>/2018/09/ultimando-detalles/</guid>
       <description>&lt;p&gt;El pasado 24 de septiembre nos volvimos a reunir para terminar de coordinar las bases fundacionales de nuestra comunidad.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>¡Visitamos a R-Ladies Santa Fe!</title>
-      <link>https://renrosario.rbind.io/2018/09/visitamos-a-r-ladies-santa-fe/</link>
+      <link>/2018/09/visitamos-a-r-ladies-santa-fe/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/09/visitamos-a-r-ladies-santa-fe/</guid>
+      <guid>/2018/09/visitamos-a-r-ladies-santa-fe/</guid>
       <description>&lt;p&gt;R-Ladies Santa Fe tuvo un nuevo meet-up sobre algoritmos básicos de Machine Learning y Rosario envió a su representante.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Primer encuentro de R en Rosario</title>
-      <link>https://renrosario.rbind.io/2018/09/primer-encuentro-de-r-en-rosario/</link>
+      <link>/2018/09/primer-encuentro-de-r-en-rosario/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/09/primer-encuentro-de-r-en-rosario/</guid>
+      <guid>/2018/09/primer-encuentro-de-r-en-rosario/</guid>
       <description>&lt;p&gt;Con la bandera argentina flameando detrás nuestro en el patio de la Facultad de Ciencias Económicas y Estadística de la UNR, el pasado miércoles 12 de septiembre un puñado de personas interesadas en R nos reunimos por primera vez para planear la creación de este grupo.&lt;/p&gt;</description>
     </item>
     
