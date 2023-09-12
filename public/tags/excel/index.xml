@@ -2,30 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Excel on R en Rosario</title>
-    <link>https://renrosario.rbind.io/tags/excel/</link>
+    <link>/tags/excel/</link>
     <description>Recent content in Excel on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://renrosario.rbind.io/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/excel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Automatización en la elaboración de documentos</title>
+      <link>/2021/07/rmarkdown-excel-catalogo/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/07/rmarkdown-excel-catalogo/</guid>
+      <description>&lt;p&gt;R en Rosario presentó &amp;ldquo;Creación de Catálogo de Productos usando RMarkdown y Excel&amp;rdquo;, un taller donde vimos cómo crear de forma automática un lindo catálogo de productos con sus precios a partir de datos guardados en Excel usando RMarkdown, de la mano de Iván Millanes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Importando datos desde hojas de cálculo</title>
-      <link>https://renrosario.rbind.io/2020/10/importando-excel/</link>
+      <link>/2020/10/importando-excel/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2020/10/importando-excel/</guid>
+      <guid>/2020/10/importando-excel/</guid>
       <description>&lt;p&gt;En este año donde muchas cosas no se dieron como se planearon inicialmente, la edición del congreso &lt;a href=&#34;https://latin-r.com&#34;&gt;LatinR&lt;/a&gt; fue virtual. Gracias a esto, distintos grupos de usaries de R de Latinoamerica pudieron unirse para hostear los variados talleres ofrecidos. Es así que tuvimos el lujo de participar, junto a RLadies Puebla, RLadies Xalapa y RLadies Barranquilla, como anfitriones del taller &amp;ldquo;Importando datos desde hojas de cálculo&amp;rdquo;, dictado por el Dr. Luis Verde Arregoitia. El material está disponible &lt;a href=&#34;https://github.com/luisDVA/taller_xl&#34;&gt;acá&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Me lo piden en Excel, pero igual lo hago en R</title>
-      <link>https://renrosario.rbind.io/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</link>
+      <link>/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</guid>
+      <guid>/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</guid>
       <description>&lt;p&gt;Excel es, sin lugar a dudas, el software más generalmente utilizado para almacenar y compartir planillas de datos. En muchos ámbitos de trabajo se invierte rutinariamente mucho tiempo en crear libros de Excel a partir de información entrante, preparando documentos de salida estandarizados para compartir con otras personas.&lt;/p&gt;
 
 &lt;p&gt;A partir de su experiencia laboral, Iván nos mostró las herramientas de R que le permitieron automatizar este tipo de tareas, ahorrando mucho tiempo de trabajo, evitando errores humanos y, además, con ciertos aditivos muy interesantes, como por ejemplo programar en R validaciones para evitar cargas de datos erróneas en las planillas de Excel.&lt;/p&gt;

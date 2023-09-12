@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alquileres on R en Rosario</title>
-    <link>https://renrosario.rbind.io/tags/alquileres/</link>
+    <link>/tags/alquileres/</link>
     <description>Recent content in Alquileres on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://renrosario.rbind.io/tags/alquileres/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/alquileres/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Un 9 de julio para independizarse de las tediosas tareas repetitivas</title>
-      <link>https://renrosario.rbind.io/2020/07/rmarkdown-y-alquileres/</link>
+      <link>/2020/07/rmarkdown-y-alquileres/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2020/07/rmarkdown-y-alquileres/</guid>
+      <guid>/2020/07/rmarkdown-y-alquileres/</guid>
       <description>&lt;p&gt;En el Día de la Independencia tuvimos nuestro primer encuentro virtual: la cuarentena no pudo vencernos y, aunque a distancia y sin la tradicional salidita posterior a calle Pellegrini, nos reencontramos para compartir un nuevo taller.&lt;/p&gt;
 
 &lt;p&gt;Esta vez la jornada se repartió en dos bloques. El primero de ellos a cargo de los hermanos Esteban y Franco Cometto, ambos estadísticos. Nos mostraron cómo obtener datos sobre alquileres en Rosario desde la web. El material &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20200709_alquileresweb_cometto&#34;&gt;está acá&lt;/a&gt;.&lt;/p&gt;

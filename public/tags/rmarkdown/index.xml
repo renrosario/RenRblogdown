@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rmarkdown on R en Rosario</title>
-    <link>https://renrosario.rbind.io/tags/rmarkdown/</link>
+    <link>/tags/rmarkdown/</link>
     <description>Recent content in Rmarkdown on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://renrosario.rbind.io/tags/rmarkdown/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/rmarkdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Automatización en la elaboración de documentos</title>
+      <link>/2021/07/rmarkdown-excel-catalogo/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/07/rmarkdown-excel-catalogo/</guid>
+      <description>&lt;p&gt;R en Rosario presentó &amp;ldquo;Creación de Catálogo de Productos usando RMarkdown y Excel&amp;rdquo;, un taller donde vimos cómo crear de forma automática un lindo catálogo de productos con sus precios a partir de datos guardados en Excel usando RMarkdown, de la mano de Iván Millanes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Un 9 de julio para independizarse de las tediosas tareas repetitivas</title>
-      <link>https://renrosario.rbind.io/2020/07/rmarkdown-y-alquileres/</link>
+      <link>/2020/07/rmarkdown-y-alquileres/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2020/07/rmarkdown-y-alquileres/</guid>
+      <guid>/2020/07/rmarkdown-y-alquileres/</guid>
       <description>&lt;p&gt;En el Día de la Independencia tuvimos nuestro primer encuentro virtual: la cuarentena no pudo vencernos y, aunque a distancia y sin la tradicional salidita posterior a calle Pellegrini, nos reencontramos para compartir un nuevo taller.&lt;/p&gt;
 
 &lt;p&gt;Esta vez la jornada se repartió en dos bloques. El primero de ellos a cargo de los hermanos Esteban y Franco Cometto, ambos estadísticos. Nos mostraron cómo obtener datos sobre alquileres en Rosario desde la web. El material &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20200709_alquileresweb_cometto&#34;&gt;está acá&lt;/a&gt;.&lt;/p&gt;
@@ -28,10 +37,10 @@
     
     <item>
       <title>Segundo meetup: Trabajo reproducible en R</title>
-      <link>https://renrosario.rbind.io/2018/12/segundo-meetup-trabajo-reproducible-en-r/</link>
+      <link>/2018/12/segundo-meetup-trabajo-reproducible-en-r/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/12/segundo-meetup-trabajo-reproducible-en-r/</guid>
+      <guid>/2018/12/segundo-meetup-trabajo-reproducible-en-r/</guid>
       <description>&lt;p&gt;Nico Ballarini nos visitó y enseñó a usar R para que nuestro trabajo sea reproducible.&lt;/p&gt;</description>
     </item>
     
