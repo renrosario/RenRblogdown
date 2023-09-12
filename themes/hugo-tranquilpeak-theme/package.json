@@ -39,7 +39,7 @@
     "grunt-contrib-watch": "^1.1.0",
     "grunt-exec": "^0.4.6",
     "grunt-sails-linker": "^0.10.1",
-    "grunt-sass": "1.1.0",
+    "grunt-sass": "3.1.0",
     "grunt-sync": "^0.8.2",
     "grunt-text-replace": "^0.4.0",
     "include-all": "^0.1.6",
