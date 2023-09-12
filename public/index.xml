@@ -6,10 +6,30 @@
     <description>Recent content on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dos en uno: paquetes multilingües y rOpenSci</title>
+      <link>/2023/09/rmarkdown-excel-catalogo/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/09/rmarkdown-excel-catalogo/</guid>
+      <description>Cómo crear un paquete de R&amp;hellip; ¡y que sea multilingüe! + Qué es rOpenSci y cómo ser parte
+Marcos Prunello es Lic. en Estadística y participante del programa Champions de la organización rOpenSci. En este encuentro vimos pasos sencillos para crear un paquete de R que pueda ser usado en distintos idiomas y además escuchamos a qué se dedica rOpenSci.
+El material está disponible en https://mpru.github.io/charla_renrosario_2023/.</description>
+    </item>
+    
+    <item>
+      <title>Ajuste de múltiples modelos sobre múltiples series de tiempo individuales</title>
+      <link>/2021/10/time-series/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/10/time-series/</guid>
+      <description>&lt;p&gt;R en Rosario presenta &amp;ldquo;Ajuste de múltiples modelos sobre múltiples series de tiempo individuales&amp;rdquo;, una charla donde Lic. Act. Rafael Zambrano y Lic. Ec. Karina Bartolomé nos mostrarán un paquete de su desarrollo utilizando el ecosistema Tidymodels/Modeltime y la extensión sknifedatar.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Automatización en la elaboración de documentos</title>

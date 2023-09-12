@@ -93,6 +93,15 @@
     </item>
     
     <item>
+      <title>Creación De Paquetes</title>
+      <link>/tags/creaci%C3%B3n-de-paquetes/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/creaci%C3%B3n-de-paquetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data.table</title>
       <link>/tags/data.table/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
@@ -264,6 +273,24 @@
     </item>
     
     <item>
+      <title>Modeltime</title>
+      <link>/tags/modeltime/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/modeltime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Múltiples Ajustes</title>
+      <link>/tags/m%C3%BAltiples-ajustes/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/m%C3%BAltiples-ajustes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Normalizacion De Datos Geneticos</title>
       <link>/tags/normalizacion-de-datos-geneticos/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
@@ -363,6 +390,15 @@
     </item>
     
     <item>
+      <title>Ropensci</title>
+      <link>/tags/ropensci/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ropensci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rprojects</title>
       <link>/tags/rprojects/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
@@ -399,6 +435,15 @@
     </item>
     
     <item>
+      <title>Series De Tiempo</title>
+      <link>/tags/series-de-tiempo/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/series-de-tiempo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sf</title>
       <link>/tags/sf/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
@@ -413,6 +458,15 @@
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Multilingüe</title>
+      <link>/tags/software-multiling%C3%BCe/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/software-multiling%C3%BCe/</guid>
       <description></description>
     </item>
     
@@ -440,6 +494,15 @@
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidymodels</title>
+      <link>/tags/tidymodels/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tidymodels/</guid>
       <description></description>
     </item>
     

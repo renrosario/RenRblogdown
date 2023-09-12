@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series De Tiempo on R en Rosario</title>
+    <link>/tags/series-de-tiempo/</link>
+    <description>Recent content in Series De Tiempo on R en Rosario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/series-de-tiempo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ajuste de múltiples modelos sobre múltiples series de tiempo individuales</title>
+      <link>/2021/10/time-series/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/10/time-series/</guid>
+      <description>&lt;p&gt;R en Rosario presenta &amp;ldquo;Ajuste de múltiples modelos sobre múltiples series de tiempo individuales&amp;rdquo;, una charla donde Lic. Act. Rafael Zambrano y Lic. Ec. Karina Bartolomé nos mostrarán un paquete de su desarrollo utilizando el ecosistema Tidymodels/Modeltime y la extensión sknifedatar.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

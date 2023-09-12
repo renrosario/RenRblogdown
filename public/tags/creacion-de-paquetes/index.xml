@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creacion De Paquetes on R en Rosario</title>
+    <link>/tags/creacion-de-paquetes/</link>
+    <description>Recent content in Creacion De Paquetes on R en Rosario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/creacion-de-paquetes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dos en uno: paquetes en varios idiomas y rOpenSci</title>
+      <link>/2023/09/rmarkdown-excel-catalogo/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/09/rmarkdown-excel-catalogo/</guid>
+      <description>Cómo crear un paquete de R&amp;hellip; ¡y que sea multilingüe! + Qué es rOpenSci y cómo ser parte
+Marcos Prunello es Lic. en Estadística y participante del programa Champions de la organización rOpenSci. En este encuentro vimos pasos sencillos para crear un paquete de R que pueda ser usado en distintos idiomas y además escuchamos a qué se dedica rOpenSci.
+El material está disponible en https://mpru.github.io/charla_renrosario_2023/.</description>
+    </item>
+    
+  </channel>
+</rss>

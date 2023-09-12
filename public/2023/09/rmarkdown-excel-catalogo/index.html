@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.54.0 with theme Tranquilpeak 0.4.3-SNAPSHOT">
+<meta name="author" content="R en Rosario">
+<meta name="keywords" content="">
+<meta name="description" content="Cómo crear un paquete de R&hellip; ¡y que sea multilingüe! &#43; Qué es rOpenSci y cómo ser parte
+Marcos Prunello es Lic. en Estadística y participante del programa Champions de la organización rOpenSci. En este encuentro vimos pasos sencillos para crear un paquete de R que pueda ser usado en distintos idiomas y además escuchamos a qué se dedica rOpenSci.
+El material está disponible en https://mpru.github.io/charla_renrosario_2023/.">
+
+
+<meta property="og:description" content="Cómo crear un paquete de R&hellip; ¡y que sea multilingüe! &#43; Qué es rOpenSci y cómo ser parte
+Marcos Prunello es Lic. en Estadística y participante del programa Champions de la organización rOpenSci. En este encuentro vimos pasos sencillos para crear un paquete de R que pueda ser usado en distintos idiomas y además escuchamos a qué se dedica rOpenSci.
+El material está disponible en https://mpru.github.io/charla_renrosario_2023/.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Dos en uno: paquetes multilingües y rOpenSci">
+<meta name="twitter:title" content="Dos en uno: paquetes multilingües y rOpenSci">
+<meta property="og:url" content="/2023/09/rmarkdown-excel-catalogo/">
+<meta property="twitter:url" content="/2023/09/rmarkdown-excel-catalogo/">
+<meta property="og:site_name" content="R en Rosario">
+<meta property="og:description" content="Cómo crear un paquete de R&hellip; ¡y que sea multilingüe! &#43; Qué es rOpenSci y cómo ser parte
+Marcos Prunello es Lic. en Estadística y participante del programa Champions de la organización rOpenSci. En este encuentro vimos pasos sencillos para crear un paquete de R que pueda ser usado en distintos idiomas y además escuchamos a qué se dedica rOpenSci.
+El material está disponible en https://mpru.github.io/charla_renrosario_2023/.">
+<meta name="twitter:description" content="Cómo crear un paquete de R&hellip; ¡y que sea multilingüe! &#43; Qué es rOpenSci y cómo ser parte
+Marcos Prunello es Lic. en Estadística y participante del programa Champions de la organización rOpenSci. En este encuentro vimos pasos sencillos para crear un paquete de R que pueda ser usado en distintos idiomas y además escuchamos a qué se dedica rOpenSci.
+El material está disponible en https://mpru.github.io/charla_renrosario_2023/.">
+<meta property="og:locale" content="es-es">
+
+  
+    <meta property="article:published_time" content="2023-09-01T00:00:00">
+  
+  
+    <meta property="article:modified_time" content="2023-09-01T00:00:00">
+  
+  
+  
+    
+      <meta property="article:section" content="meetup">
+    
+  
+  
+    
+      <meta property="article:tag" content="creación de paquetes">
+    
+      <meta property="article:tag" content="software multilingüe">
+    
+      <meta property="article:tag" content="rOpenSci">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="/img/20230901/afiche.jpeg">
+  <meta property="twitter:image" content="/img/20230901/afiche.jpeg">
+
+
+
+  
+    <meta property="og:image" content="/img/20210901/foto.jpeg">
+    <meta property="twitter:image" content="/img/20210901/foto.jpeg">
+  
+    <meta property="og:image" content="/img/20230901/afiche.jpeg">
+    <meta property="twitter:image" content="/img/20230901/afiche.jpeg">
+  
+
+
+
+  <meta property="og:image" content="/img/nuevologo.png">
+  <meta property="twitter:image" content="/img/nuevologo.png">
+
+
+    <title>Dos en uno: paquetes multilingües y rOpenSci</title>
+
+    <link rel="icon" href="/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="/2023/09/rmarkdown-excel-catalogo/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="/css/style-nnm2spxvve8onlujjlegkkytaehyadd4ksxc1hyzzq9a2wvtrgbljqyulomn.min.css" />
+    
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="1">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="/">R en Rosario</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="/#about">
+    
+    
+    
+      
+        <img class="header-picture" src="/img/nuevologo.png" alt="Foto de autor" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="1">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="/#about">
+          <img class="sidebar-profile-picture" src="/img/nuevologo.png" alt="Foto de autor" />
+        </a>
+        <h4 class="sidebar-profile-name">R en Rosario</h4>
+        
+          <h5 class="sidebar-profile-bio">Grupo de Usuaries de R en Rosario
+ renrosarioarg@gmail.com</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Inicio</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/quienes-somos/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-users"></i>
+      
+      <span class="sidebar-button-desc">Acerca de</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/codigo-de-conducta/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-bell-o"></i>
+      
+      <span class="sidebar-button-desc">Código de conducta</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Etiquetas</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/renrosario">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/renrosarioarg">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
+      
+      <span class="sidebar-button-desc">Twitter</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://www.meetup.com/r-en-rosario">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-meetup"></i>
+      
+      <span class="sidebar-button-desc">Meetup</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://renrosario.slack.com">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-slack"></i>
+      
+      <span class="sidebar-button-desc">Slack</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/index.xml">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+
+      <div id="main" data-behavior="1"
+        class="
+               hasCoverMetaIn
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title" itemprop="headline">
+      Dos en uno: paquetes multilingües y rOpenSci
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2023-09-01T00:00:00Z">
+        
+  
+  
+  
+  
+    1 Septiembre 2023
+  
+
+      </time>
+    
+    
+  
+  
+    <span>en</span>
+    
+      <a class="category-link" href="/categories/meetup">meetup</a>
+    
+  
+
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p><em>Cómo crear un paquete de R&hellip; ¡y que sea multilingüe! + Qué es rOpenSci y cómo ser parte</em></p>
+
+<p>Marcos Prunello es Lic. en Estadística y participante del programa Champions de la organización rOpenSci. En este encuentro vimos pasos sencillos para crear un paquete de R que pueda ser usado en distintos idiomas y además escuchamos a qué se dedica rOpenSci.</p>
+
+<p>El material está disponible en <a href="https://mpru.github.io/charla_renrosario_2023/">https://mpru.github.io/charla_renrosario_2023/</a>.</p>
+
+              
+  
+  
+  
+    <div class="image-gallery">
+      <div class="image-gallery-metabar">
+        <span>Gallery 2 images</span>
+      </div>
+      <div class="image-gallery-photos ">
+        
+          
+          
+          <div class="photo-box">
+            <a class="photo-box-inner fancybox" data-fancybox-group="gallery-b7a99db3ea1a746b780d5c1e215fe01b"
+               title="" href="/img/20210901/foto.jpeg">
+              <img class="photo" src="/img/20210901/foto.jpeg" itemprop="image">
+            </a>
+          </div>
+        
+          
+          
+          <div class="photo-box">
+            <a class="photo-box-inner fancybox" data-fancybox-group="gallery-b7a99db3ea1a746b780d5c1e215fe01b"
+               title="" href="/img/20230901/afiche.jpeg">
+              <img class="photo" src="/img/20230901/afiche.jpeg" itemprop="image">
+            </a>
+          </div>
+        
+      </div>
+    </div>
+    
+
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">ETIQUETADO EN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="/tags/creaci%C3%B3n-de-paquetes/">creación de paquetes</a>
+
+  <a class="tag tag--primary tag--small" href="/tags/software-multiling%C3%BCe/">software multilingüe</a>
+
+  <a class="tag tag--primary tag--small" href="/tags/ropensci/">rOpenSci</a>
+
+                  </div>
+                
+              
+            
+            <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--disabled">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">SIGUIENTE</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2021/10/time-series/" data-tooltip="Ajuste de múltiples modelos sobre múltiples series de tiempo individuales">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">ANTERIOR</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2023/09/rmarkdown-excel-catalogo/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2023/09/rmarkdown-excel-catalogo/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2023/09/rmarkdown-excel-catalogo/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+            
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2023 R en Rosario. Todos los derechos reservados
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="1">
+        <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--disabled">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">SIGUIENTE</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2021/10/time-series/" data-tooltip="Ajuste de múltiples modelos sobre múltiples series de tiempo individuales">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">ANTERIOR</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2023/09/rmarkdown-excel-catalogo/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2023/09/rmarkdown-excel-catalogo/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2023/09/rmarkdown-excel-catalogo/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="1">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=%2F2023%2F09%2Frmarkdown-excel-catalogo%2F">
+          <i class="fa fa-facebook-official"></i><span>Compartir en Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=%2F2023%2F09%2Frmarkdown-excel-catalogo%2F">
+          <i class="fa fa-twitter"></i><span>Compartir en Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=%2F2023%2F09%2Frmarkdown-excel-catalogo%2F">
+          <i class="fa fa-google-plus"></i><span>Compartir en Google&#43;</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="/img/nuevologo.png" alt="Foto de autor" />
+    
+    <h4 id="about-card-name">R en Rosario</h4>
+    
+      <div id="about-card-bio">Grupo de Usuaries de R en Rosario
+ renrosarioarg@gmail.com</div>
+    
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        Rosario, Argentina
+      </div>
+    
+  </div>
+</div>
+
+    <div id="algolia-search-modal" class="modal-container">
+  <div class="modal">
+    <div class="modal-header">
+      <span class="close-button"><i class="fa fa-close"></i></span>
+      <a href="https://algolia.com" target="_blank" rel="noopener" class="searchby-algolia text-color-light link-unstyled">
+        <span class="searchby-algolia-text text-color-light text-small">by</span>
+        <img class="searchby-algolia-logo" src="https://www.algolia.com/static_assets/images/press/downloads/algolia-light.svg">
+      </a>
+      <i class="search-icon fa fa-search"></i>
+      <form id="algolia-search-form">
+        <input type="text" id="algolia-search-input" name="search"
+          class="form-control input--large search-input" placeholder="Buscar" />
+      </form>
+    </div>
+    <div class="modal-body">
+      <div class="no-result text-color-light text-center">no se encontraron artículos</div>
+      <div class="results">
+        
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="/2023/09/rmarkdown-excel-catalogo/">
+                <h3 class="media-heading">Dos en uno: paquetes multilingües y rOpenSci</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Sep 9, 2023
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Cómo crear un paquete de R&hellip; ¡y que sea multilingüe! + Qué es rOpenSci y cómo ser parte
+Marcos Prunello es Lic. en Estadística y participante del programa Champions de la organización rOpenSci. En este encuentro vimos pasos sencillos para crear un paquete de R que pueda ser usado en distintos idiomas y además escuchamos a qué se dedica rOpenSci.
+El material está disponible en https://mpru.github.io/charla_renrosario_2023/.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="/2021/10/time-series/">
+                <h3 class="media-heading">Ajuste de múltiples modelos sobre múltiples series de tiempo individuales</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Oct 10, 2021
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>R en Rosario presenta &ldquo;Ajuste de múltiples modelos sobre múltiples series de tiempo individuales&rdquo;, una charla donde Lic. Act. Rafael Zambrano y Lic. Ec. Karina Bartolomé nos mostrarán un paquete de su desarrollo utilizando el ecosistema Tidymodels/Modeltime y la extensión sknifedatar.</p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="/2021/07/rmarkdown-excel-catalogo/">
+                <h3 class="media-heading">Automatización en la elaboración de documentos</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jul 7, 2021
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>R en Rosario presentó &ldquo;Creación de Catálogo de Productos usando RMarkdown y Excel&rdquo;, un taller donde vimos cómo crear de forma automática un lindo catálogo de productos con sus precios a partir de datos guardados en Excel usando RMarkdown, de la mano de Iván Millanes.</p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="/2021/03/leaflet-sf-radios/">
+                <h3 class="media-heading">Radios censales y otras yerbas</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Mar 3, 2021
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>En este encuentro Lautaro Cantar nos mostró el uso de mapas con R en el contexto del análisis de radios censales y la construcción de indidicadores. Todo el material está disponible en <a href="https://github.com/renrosario/Presentaciones/tree/master/20210318_radios_censales">este repo</a>.</p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="/2021/02/purr-datatable/">
+                <h3 class="media-heading">Taller 2x1 sobre purrr y data.table</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Feb 2, 2021
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>¡El 2021 arrancó con todo! ¡Dos talleres juntos para aprender acerca de paquetes muy útiles!</p>
+
+<p>Por un lado, Ignacio Evangelista mostró cómo se usa <strong>purrr</strong>, una librería que facilita la programación funcional en R. Por otro, Guillermo García presentó <strong>data.table</strong> como la evolución de los data.frames, con mejoras de performance y funcionalidad.
+Los materiales de estas charlas imperdibles se pueden encontrar <a href="https://github.com/renrosario/Presentaciones/tree/master/20210217_menos_for_mas_purrr">acá</a> y <a href="https://github.com/renrosario/Presentaciones/tree/master/20210217_datatable">acá</a>, respectivamente.</p>
+
+<p>Ambos disertantes son ingenieros y se desempeñan como científicos de datos en COFCO International.</p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="/2020/12/georref-dashboard/">
+                <h3 class="media-heading">Georreferenciación y presentación de resultados con RSelenium y flexdashboard</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Dec 12, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>R en Rosario cerró el 2020 con una charla sobre Georreferencia y creación de Dashboards. Las integrantes del equipo del Sistema Municipal de Epidemiología, dependiente de la Secretaría de Salud Pública de la Municipalidad de Rosario, nos contaron su experiencia en la aplicación de estas herramientas. El evento fue auspiciado y co-organizado por R en Rosario, La Usina Social y el Instituto de Salud Colectiva.</p>
+
+<p>El material está disponible <a href="https://github.com/renrosario/Presentaciones/tree/master/20201221%20GeoRef%20RSelenium%20Dashboard">en este enlace</a>.</p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="/2020/11/fintech-h20/">
+                <h3 class="media-heading">Retos en Fintech con R &#43; H2O</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Nov 11, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Desde México contamos con la visita virtual de Camila Burne, Licenciada en Estadística por la UNR, que actualmente se encuentra trabajando en startups relacionadas con el mundo fintech. Ella nos habló del paquete <strong>h2o</strong>, una interfaz para R de la plataforma H2O, la cual ofrece implementaciones en paralelo de algoritmos de machine learning para aprendizaje supervisado y no supervisado, como por ejemplo GLM, random forest, redes neuronales profundas, Naive Bayes, entre tantos otros. En esta charla se mostraron aplicaciones de la herramienta h2o en problemas de fintech y bancos.</p>
+
+<p>El material está disponible <a href="https://github.com/renrosario/Presentaciones/tree/master/20201125%20Retos%20en%20fintech">en este enlace</a>.</p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="/2020/10/importando-excel/">
+                <h3 class="media-heading">Importando datos desde hojas de cálculo</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Oct 10, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>En este año donde muchas cosas no se dieron como se planearon inicialmente, la edición del congreso <a href="https://latin-r.com">LatinR</a> fue virtual. Gracias a esto, distintos grupos de usaries de R de Latinoamerica pudieron unirse para hostear los variados talleres ofrecidos. Es así que tuvimos el lujo de participar, junto a RLadies Puebla, RLadies Xalapa y RLadies Barranquilla, como anfitriones del taller &ldquo;Importando datos desde hojas de cálculo&rdquo;, dictado por el Dr. Luis Verde Arregoitia. El material está disponible <a href="https://github.com/luisDVA/taller_xl">acá</a>.</p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="/2020/08/webscraping-rselnium-rvest/">
+                <h3 class="media-heading">Webscraping usando RSelenium y rvest</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Aug 8, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p><a href="https://ivanmillanes.netlify.app/">Iván Millanes</a> (Lic. en Estadística, UNR) se puso la 10 una vez más y compartió un gran tutorial acerca del uso RSelenium y rvest para tomar datos de la web. Si te perdiste este gran encuentro virtual, pasate por <a href="https://ivanmillanes.netlify.app/post/2020-06-30-webscraping-with-rselenium-and-rvest/">esta página</a> de su blog para ver el ejemplo desarrollado por completo con todos los comentarios pertinentes y descargá el material desde <a href="https://github.com/renrosario/Presentaciones/tree/master/20200820_webscraping_ivan_millanes">nuestro GitHub</a>.</p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="/2020/07/rmarkdown-y-alquileres/">
+                <h3 class="media-heading">Un 9 de julio para independizarse de las tediosas tareas repetitivas</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jul 7, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>En el Día de la Independencia tuvimos nuestro primer encuentro virtual: la cuarentena no pudo vencernos y, aunque a distancia y sin la tradicional salidita posterior a calle Pellegrini, nos reencontramos para compartir un nuevo taller.</p>
+
+<p>Esta vez la jornada se repartió en dos bloques. El primero de ellos a cargo de los hermanos Esteban y Franco Cometto, ambos estadísticos. Nos mostraron cómo obtener datos sobre alquileres en Rosario desde la web. El material <a href="https://github.com/renrosario/Presentaciones/tree/master/20200709_alquileresweb_cometto">está acá</a>.</p>
+
+<p>El segundo turno fue para Fede Izzo, Ingeniero Agrónomo, que compartió un tutorial sobre RMarkdown, repasando el uso básico de este sistema y haciendo foco en la generación automática de múltiples reportes. El material <a href="https://github.com/renrosario/Presentaciones/tree/master/20200709_rmd_fede_izzo">está acá</a>.</p>
+
+<p>No pierdas la oportunidad de chusmear estos muy buenos ejemplos.</p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+      </div>
+    </div>
+    <div class="modal-footer">
+      <p class="results-count text-medium"
+         data-message-zero="no se encontraron artículos"
+         data-message-one="1 artículo encontrado"
+         data-message-other="{n} artículos encontrados">
+         24 posts found
+      </p>
+    </div>
+  </div>
+</div>
+    
+  
+    
+    <div id="cover" style="background-image:url('/images/puente2bis.jpg');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="/js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+  
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = '\/2023\/09\/rmarkdown-excel-catalogo\/';
+          
+            this.page.identifier = '\/2023\/09\/rmarkdown-excel-catalogo\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'R en Rosario';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+    
+  
+
+
+
+
+    
+  </body>
+</html>
+
