@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conducta on R en Rosario</title>
-    <link>https://renrosario.rbind.io/tags/conducta/</link>
+    <link>/tags/conducta/</link>
     <description>Recent content in Conducta on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-	<atom:link href="https://renrosario.rbind.io/tags/conducta/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/conducta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Código de Conducta</title>
-      <link>https://renrosario.rbind.io/codigo-de-conducta/</link>
+      <link>/codigo-de-conducta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/codigo-de-conducta/</guid>
+      <guid>/codigo-de-conducta/</guid>
       <description>La comunidad de RenRosario, incluyendo sus representantes, deben conocer y seguir este Código de Conducta (basado en el Código de Conducta de R Community) que es establecido con la finalidad de alentar al crecimiento de esta comunidad, participando en un ambiente amigable, partiendo de la base del respeto mutuo.
 En cualquier tipo de evento ya sea conferencia, charla, taller, fiesta, reunión, redes sociales y otros medios en línea:
  aborde los esfuerzos de las demás personas con consideración; cuando no esté de acuerdo con algo, sea amable al plantear sus problemas; ejercite la consideración y el respeto en su discurso y en sus acciones; intente colaborar para evitar conflictos; sea consciente de su entorno y de les otres participantes; alerte al liderazgo de la comunidad si nota alguna situación peligrosa, alguien sufriendo una situación comprometedora o violaciones de este Código de Conducta, incluso aunque parezcan poco importantes.</description>

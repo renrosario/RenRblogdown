@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leaflet on R en Rosario</title>
+    <link>/tags/leaflet/</link>
+    <description>Recent content in Leaflet on R en Rosario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/leaflet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Radios censales y otras yerbas</title>
+      <link>/2021/03/leaflet-sf-radios/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/03/leaflet-sf-radios/</guid>
+      <description>&lt;p&gt;En este encuentro Lautaro Cantar nos mostró el uso de mapas con R en el contexto del análisis de radios censales y la construcción de indidicadores. Todo el material está disponible en &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20210318_radios_censales&#34;&gt;este repo&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
