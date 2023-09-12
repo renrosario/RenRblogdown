@@ -2,22 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R en Rosario</title>
-    <link>https://renrosario.rbind.io/</link>
+    <link>/</link>
     <description>Recent content on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://renrosario.rbind.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Automatización en la elaboración de documentos</title>
+      <link>/2021/07/rmarkdown-excel-catalogo/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/07/rmarkdown-excel-catalogo/</guid>
+      <description>&lt;p&gt;R en Rosario presentó &amp;ldquo;Creación de Catálogo de Productos usando RMarkdown y Excel&amp;rdquo;, un taller donde vimos cómo crear de forma automática un lindo catálogo de productos con sus precios a partir de datos guardados en Excel usando RMarkdown, de la mano de Iván Millanes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Radios censales y otras yerbas</title>
+      <link>/2021/03/leaflet-sf-radios/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/03/leaflet-sf-radios/</guid>
+      <description>&lt;p&gt;En este encuentro Lautaro Cantar nos mostró el uso de mapas con R en el contexto del análisis de radios censales y la construcción de indidicadores. Todo el material está disponible en &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20210318_radios_censales&#34;&gt;este repo&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Taller 2x1 sobre purrr y data.table</title>
-      <link>https://renrosario.rbind.io/2021/02/purr-datatable/</link>
+      <link>/2021/02/purr-datatable/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2021/02/purr-datatable/</guid>
-      <description>&lt;p&gt;¡El 2021 arrancó con todo! ¡Dos talleres juntos para aprender acercade paquetes muy útiles!&lt;/p&gt;
+      <guid>/2021/02/purr-datatable/</guid>
+      <description>&lt;p&gt;¡El 2021 arrancó con todo! ¡Dos talleres juntos para aprender acerca de paquetes muy útiles!&lt;/p&gt;
 
 &lt;p&gt;Por un lado, Ignacio Evangelista mostró cómo se usa &lt;strong&gt;purrr&lt;/strong&gt;, una librería que facilita la programación funcional en R. Por otro, Guillermo García presentó &lt;strong&gt;data.table&lt;/strong&gt; como la evolución de los data.frames, con mejoras de performance y funcionalidad.
 Los materiales de estas charlas imperdibles se pueden encontrar &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20210217_menos_for_mas_purrr&#34;&gt;acá&lt;/a&gt; y &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20210217_datatable&#34;&gt;acá&lt;/a&gt;, respectivamente.&lt;/p&gt;
@@ -27,10 +45,10 @@ Los materiales de estas charlas imperdibles se pueden encontrar &lt;a href=&#34;
     
     <item>
       <title>Georreferenciación y presentación de resultados con RSelenium y flexdashboard</title>
-      <link>https://renrosario.rbind.io/2020/12/georref-dashboard/</link>
+      <link>/2020/12/georref-dashboard/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2020/12/georref-dashboard/</guid>
+      <guid>/2020/12/georref-dashboard/</guid>
       <description>&lt;p&gt;R en Rosario cerró el 2020 con una charla sobre Georreferencia y creación de Dashboards. Las integrantes del equipo del Sistema Municipal de Epidemiología, dependiente de la Secretaría de Salud Pública de la Municipalidad de Rosario, nos contaron su experiencia en la aplicación de estas herramientas. El evento fue auspiciado y co-organizado por R en Rosario, La Usina Social y el Instituto de Salud Colectiva.&lt;/p&gt;
 
 &lt;p&gt;El material está disponible &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20201221%20GeoRef%20RSelenium%20Dashboard&#34;&gt;en este enlace&lt;/a&gt;.&lt;/p&gt;</description>
@@ -38,10 +56,10 @@ Los materiales de estas charlas imperdibles se pueden encontrar &lt;a href=&#34;
     
     <item>
       <title>Retos en Fintech con R &#43; H2O</title>
-      <link>https://renrosario.rbind.io/2020/11/fintech-h20/</link>
+      <link>/2020/11/fintech-h20/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2020/11/fintech-h20/</guid>
+      <guid>/2020/11/fintech-h20/</guid>
       <description>&lt;p&gt;Desde México contamos con la visita virtual de Camila Burne, Licenciada en Estadística por la UNR, que actualmente se encuentra trabajando en startups relacionadas con el mundo fintech. Ella nos habló del paquete &lt;strong&gt;h2o&lt;/strong&gt;, una interfaz para R de la plataforma H2O, la cual ofrece implementaciones en paralelo de algoritmos de machine learning para aprendizaje supervisado y no supervisado, como por ejemplo GLM, random forest, redes neuronales profundas, Naive Bayes, entre tantos otros. En esta charla se mostraron aplicaciones de la herramienta h2o en problemas de fintech y bancos.&lt;/p&gt;
 
 &lt;p&gt;El material está disponible &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20201125%20Retos%20en%20fintech&#34;&gt;en este enlace&lt;/a&gt;.&lt;/p&gt;</description>
@@ -49,28 +67,28 @@ Los materiales de estas charlas imperdibles se pueden encontrar &lt;a href=&#34;
     
     <item>
       <title>Importando datos desde hojas de cálculo</title>
-      <link>https://renrosario.rbind.io/2020/10/importando-excel/</link>
+      <link>/2020/10/importando-excel/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2020/10/importando-excel/</guid>
+      <guid>/2020/10/importando-excel/</guid>
       <description>&lt;p&gt;En este año donde muchas cosas no se dieron como se planearon inicialmente, la edición del congreso &lt;a href=&#34;https://latin-r.com&#34;&gt;LatinR&lt;/a&gt; fue virtual. Gracias a esto, distintos grupos de usaries de R de Latinoamerica pudieron unirse para hostear los variados talleres ofrecidos. Es así que tuvimos el lujo de participar, junto a RLadies Puebla, RLadies Xalapa y RLadies Barranquilla, como anfitriones del taller &amp;ldquo;Importando datos desde hojas de cálculo&amp;rdquo;, dictado por el Dr. Luis Verde Arregoitia. El material está disponible &lt;a href=&#34;https://github.com/luisDVA/taller_xl&#34;&gt;acá&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Webscraping usando RSelenium y rvest</title>
-      <link>https://renrosario.rbind.io/2020/08/webscraping-rselnium-rvest/</link>
+      <link>/2020/08/webscraping-rselnium-rvest/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2020/08/webscraping-rselnium-rvest/</guid>
+      <guid>/2020/08/webscraping-rselnium-rvest/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ivanmillanes.netlify.app/&#34;&gt;Iván Millanes&lt;/a&gt; (Lic. en Estadística, UNR) se puso la 10 una vez más y compartió un gran tutorial acerca del uso RSelenium y rvest para tomar datos de la web. Si te perdiste este gran encuentro virtual, pasate por &lt;a href=&#34;https://ivanmillanes.netlify.app/post/2020-06-30-webscraping-with-rselenium-and-rvest/&#34;&gt;esta página&lt;/a&gt; de su blog para ver el ejemplo desarrollado por completo con todos los comentarios pertinentes y descargá el material desde &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20200820_webscraping_ivan_millanes&#34;&gt;nuestro GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Un 9 de julio para independizarse de las tediosas tareas repetitivas</title>
-      <link>https://renrosario.rbind.io/2020/07/rmarkdown-y-alquileres/</link>
+      <link>/2020/07/rmarkdown-y-alquileres/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2020/07/rmarkdown-y-alquileres/</guid>
+      <guid>/2020/07/rmarkdown-y-alquileres/</guid>
       <description>&lt;p&gt;En el Día de la Independencia tuvimos nuestro primer encuentro virtual: la cuarentena no pudo vencernos y, aunque a distancia y sin la tradicional salidita posterior a calle Pellegrini, nos reencontramos para compartir un nuevo taller.&lt;/p&gt;
 
 &lt;p&gt;Esta vez la jornada se repartió en dos bloques. El primero de ellos a cargo de los hermanos Esteban y Franco Cometto, ambos estadísticos. Nos mostraron cómo obtener datos sobre alquileres en Rosario desde la web. El material &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20200709_alquileresweb_cometto&#34;&gt;está acá&lt;/a&gt;.&lt;/p&gt;
@@ -82,10 +100,10 @@ Los materiales de estas charlas imperdibles se pueden encontrar &lt;a href=&#34;
     
     <item>
       <title>Con R de Redes Neuronales</title>
-      <link>https://renrosario.rbind.io/2020/03/con-r-de-redes-neuronales/</link>
+      <link>/2020/03/con-r-de-redes-neuronales/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2020/03/con-r-de-redes-neuronales/</guid>
+      <guid>/2020/03/con-r-de-redes-neuronales/</guid>
       <description>&lt;p&gt;La nueva década empezó con todo para R en Rosario! &lt;a href=&#34;https://rladies.org/argentina-rladies/name/emilia-gibellini/&#34;&gt;Emilia Gibellini&lt;/a&gt; nos brindó un grandioso taller sobre Redes Neuronales Artificiales usando R y TensorFlow. Sin esquivarle a la &lt;strong&gt;caja negra&lt;/strong&gt;, nos explicó qué es lo que pasa en el detrás de escena de estos algoritmos, nos compartió un ejemplo de aplicación y nos dijo que &lt;em&gt;cualquier parecido con las funciones de enlace de los MLG no es pura coincidencia&lt;/em&gt;!!&lt;/p&gt;
 
 &lt;p&gt;Todo el material se encuentra disponible en nuestro &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20200302_redes_neuronales_emilia_gibellini&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
@@ -97,10 +115,10 @@ Los materiales de estas charlas imperdibles se pueden encontrar &lt;a href=&#34;
     
     <item>
       <title>Un taller brillante</title>
-      <link>https://renrosario.rbind.io/2019/12/un-taller-brillante/</link>
+      <link>/2019/12/un-taller-brillante/</link>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2019/12/un-taller-brillante/</guid>
+      <guid>/2019/12/un-taller-brillante/</guid>
       <description>&lt;p&gt;Un año brillante sólo podía despedirse con un encuentro brillante. Por eso, Diego tomó cartas en el asunto y compartió en el último meetup del 2020 un excelente taller sobre Shiny Apps. Aprendimos a crear aplicaciones web desde cero, viendo una vez más cómo podemos con la ayuda de R crear proyectos creativos e interesantes. Todo el material se encuentra disponible en nuestro &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20191218%20Taller%20de%20Shiny&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Diego Marfetán Molina es Licenciado en Estadística por la Universidad Nacional de Rosario y Magíster en Estadística por la Universidad de Georgia (EEUU). Actualmente trabaja en la Dirección de Estadística de la UNR y dicta cursos de R.&lt;/p&gt;
@@ -110,10 +128,10 @@ Los materiales de estas charlas imperdibles se pueden encontrar &lt;a href=&#34;
     
     <item>
       <title>Me lo piden en Excel, pero igual lo hago en R</title>
-      <link>https://renrosario.rbind.io/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</link>
+      <link>/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</guid>
+      <guid>/2019/11/me-lo-piden-en-excel-pero-igual-lo-hago-en-r/</guid>
       <description>&lt;p&gt;Excel es, sin lugar a dudas, el software más generalmente utilizado para almacenar y compartir planillas de datos. En muchos ámbitos de trabajo se invierte rutinariamente mucho tiempo en crear libros de Excel a partir de información entrante, preparando documentos de salida estandarizados para compartir con otras personas.&lt;/p&gt;
 
 &lt;p&gt;A partir de su experiencia laboral, Iván nos mostró las herramientas de R que le permitieron automatizar este tipo de tareas, ahorrando mucho tiempo de trabajo, evitando errores humanos y, además, con ciertos aditivos muy interesantes, como por ejemplo programar en R validaciones para evitar cargas de datos erróneas en las planillas de Excel.&lt;/p&gt;
@@ -127,119 +145,119 @@ Los materiales de estas charlas imperdibles se pueden encontrar &lt;a href=&#34;
     
     <item>
       <title>RStan: Intro a la Inferencia Bayesiana en R</title>
-      <link>https://renrosario.rbind.io/2019/08/rstan-intro-a-la-inferencia-bayesiana-en-r/</link>
+      <link>/2019/08/rstan-intro-a-la-inferencia-bayesiana-en-r/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2019/08/rstan-intro-a-la-inferencia-bayesiana-en-r/</guid>
+      <guid>/2019/08/rstan-intro-a-la-inferencia-bayesiana-en-r/</guid>
       <description>&lt;p&gt;En el quinto encuentro de &lt;strong&gt;R en Rosario&lt;/strong&gt; nos pusimos a pensar en el paradigma bayesiano y nos ensuciamos las manos con R! Entrá para ver el material.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Encuentro variadito: 2x1</title>
-      <link>https://renrosario.rbind.io/2019/05/encuentro-variadito-2x1/</link>
+      <link>/2019/05/encuentro-variadito-2x1/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2019/05/encuentro-variadito-2x1/</guid>
+      <guid>/2019/05/encuentro-variadito-2x1/</guid>
       <description>&lt;p&gt;En el cuarto encuentro de nuestro grupo tuvimos un excelente combinado con dos charlas al precio de una&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Taller sobre Visualización con ggplot2</title>
-      <link>https://renrosario.rbind.io/2019/03/taller-ggplot2/</link>
+      <link>/2019/03/taller-ggplot2/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2019/03/taller-ggplot2/</guid>
+      <guid>/2019/03/taller-ggplot2/</guid>
       <description>&lt;p&gt;Celebrando Día Internacional de la Mujer y so rol en la ciencia de datos, tuvimos el primer encuentro del año y nos dedicamos a aprender cómo realizar gráficos con &lt;strong&gt;ggplot2&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Segundo meetup: Trabajo reproducible en R</title>
-      <link>https://renrosario.rbind.io/2018/12/segundo-meetup-trabajo-reproducible-en-r/</link>
+      <link>/2018/12/segundo-meetup-trabajo-reproducible-en-r/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/12/segundo-meetup-trabajo-reproducible-en-r/</guid>
+      <guid>/2018/12/segundo-meetup-trabajo-reproducible-en-r/</guid>
       <description>&lt;p&gt;Nico Ballarini nos visitó y enseñó a usar R para que nuestro trabajo sea reproducible.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Primer meetup realizado!</title>
-      <link>https://renrosario.rbind.io/2018/10/primer-meetup-realizado/</link>
+      <link>/2018/10/primer-meetup-realizado/</link>
       <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/10/primer-meetup-realizado/</guid>
+      <guid>/2018/10/primer-meetup-realizado/</guid>
       <description>&lt;p&gt;¡Finalmente nos conocimos las caras en el primer encuentro! Entrá para enterarte qué paso en la juntada.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Primer Meetup</title>
-      <link>https://renrosario.rbind.io/2018/10/primermeetup/</link>
+      <link>/2018/10/primermeetup/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/10/primermeetup/</guid>
+      <guid>/2018/10/primermeetup/</guid>
       <description>&lt;p&gt;¡Llegó el momento de nuestro primer Meetup oficial! No te quedes afuera.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>¡Ya formamos parte del R Consortium!</title>
-      <link>https://renrosario.rbind.io/2018/10/rconsortium/</link>
+      <link>/2018/10/rconsortium/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/10/rconsortium/</guid>
+      <guid>/2018/10/rconsortium/</guid>
       <description>&lt;p&gt;Desde el 1 de octubre de 2018 formamos parte oficialmente del programa de &lt;a href=&#34;https://www.r-consortium.org/&#34;&gt;R Consortium&lt;/a&gt; para Grupos de Usuaries de R (RUGs).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Ultimando detalles</title>
-      <link>https://renrosario.rbind.io/2018/09/ultimando-detalles/</link>
+      <link>/2018/09/ultimando-detalles/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/09/ultimando-detalles/</guid>
+      <guid>/2018/09/ultimando-detalles/</guid>
       <description>&lt;p&gt;El pasado 24 de septiembre nos volvimos a reunir para terminar de coordinar las bases fundacionales de nuestra comunidad.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>¡Visitamos a R-Ladies Santa Fe!</title>
-      <link>https://renrosario.rbind.io/2018/09/visitamos-a-r-ladies-santa-fe/</link>
+      <link>/2018/09/visitamos-a-r-ladies-santa-fe/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/09/visitamos-a-r-ladies-santa-fe/</guid>
+      <guid>/2018/09/visitamos-a-r-ladies-santa-fe/</guid>
       <description>&lt;p&gt;R-Ladies Santa Fe tuvo un nuevo meet-up sobre algoritmos básicos de Machine Learning y Rosario envió a su representante.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Primer encuentro de R en Rosario</title>
-      <link>https://renrosario.rbind.io/2018/09/primer-encuentro-de-r-en-rosario/</link>
+      <link>/2018/09/primer-encuentro-de-r-en-rosario/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/09/primer-encuentro-de-r-en-rosario/</guid>
+      <guid>/2018/09/primer-encuentro-de-r-en-rosario/</guid>
       <description>&lt;p&gt;Con la bandera argentina flameando detrás nuestro en el patio de la Facultad de Ciencias Económicas y Estadística de la UNR, el pasado miércoles 12 de septiembre un puñado de personas interesadas en R nos reunimos por primera vez para planear la creación de este grupo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Quiénes Somos</title>
-      <link>https://renrosario.rbind.io/quienes-somos/</link>
+      <link>/quienes-somos/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/quienes-somos/</guid>
+      <guid>/quienes-somos/</guid>
       <description>Misión Este grupo surge con la misión de conectar a les usuaries de R en la ciudad de Rosario, Argentina, independientemente de su grado de conocimiento sobre el software y el ámbito de aplicación del mismo. Pretendemos promover el uso del lenguaje de programación R, apoyar el desarrollo de esta comunidad de usuaries para compartir experiencias, promover el aprendizaje continuo y favorecer la creación de proyectos interdisciplinarios.
 Visión Creamos esta comunidad con el ideal de brindar un espacio social activo e inclusivo, cuyes integrantes se encuentren predispuestos a trabajar en forma colaborativa y constructiva, compartiendo conocimientos e intercambiando opiniones en forma respetuosa y con la finalidad común de ampliar y promover el uso de R en diversas disciplinas que puedan sacar partido de las herramientas que dicho software libre provee.</description>
     </item>
     
     <item>
       <title>¡Participamos de Latin-R!</title>
-      <link>https://renrosario.rbind.io/2018/09/participamos-de-latin-r/</link>
+      <link>/2018/09/participamos-de-latin-r/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2018/09/participamos-de-latin-r/</guid>
+      <guid>/2018/09/participamos-de-latin-r/</guid>
       <description>&lt;p&gt;Entre el 3 y 5 de septiembre tuvimos la alegría de participar de &lt;a href=&#34;http://latin-r.com/&#34;&gt;Latin-R&lt;/a&gt;, la primera Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Código de Conducta</title>
-      <link>https://renrosario.rbind.io/codigo-de-conducta/</link>
+      <link>/codigo-de-conducta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/codigo-de-conducta/</guid>
+      <guid>/codigo-de-conducta/</guid>
       <description>La comunidad de RenRosario, incluyendo sus representantes, deben conocer y seguir este Código de Conducta (basado en el Código de Conducta de R Community) que es establecido con la finalidad de alentar al crecimiento de esta comunidad, participando en un ambiente amigable, partiendo de la base del respeto mutuo.
 En cualquier tipo de evento ya sea conferencia, charla, taller, fiesta, reunión, redes sociales y otros medios en línea:
  aborde los esfuerzos de las demás personas con consideración; cuando no esté de acuerdo con algo, sea amable al plantear sus problemas; ejercite la consideración y el respeto en su discurso y en sus acciones; intente colaborar para evitar conflictos; sea consciente de su entorno y de les otres participantes; alerte al liderazgo de la comunidad si nota alguna situación peligrosa, alguien sufriendo una situación comprometedora o violaciones de este Código de Conducta, incluso aunque parezcan poco importantes.</description>

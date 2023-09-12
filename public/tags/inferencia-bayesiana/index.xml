@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inferencia Bayesiana on R en Rosario</title>
-    <link>https://renrosario.rbind.io/tags/inferencia-bayesiana/</link>
+    <link>/tags/inferencia-bayesiana/</link>
     <description>Recent content in Inferencia Bayesiana on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://renrosario.rbind.io/tags/inferencia-bayesiana/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/inferencia-bayesiana/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>RStan: Intro a la Inferencia Bayesiana en R</title>
-      <link>https://renrosario.rbind.io/2019/08/rstan-intro-a-la-inferencia-bayesiana-en-r/</link>
+      <link>/2019/08/rstan-intro-a-la-inferencia-bayesiana-en-r/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://renrosario.rbind.io/2019/08/rstan-intro-a-la-inferencia-bayesiana-en-r/</guid>
+      <guid>/2019/08/rstan-intro-a-la-inferencia-bayesiana-en-r/</guid>
       <description>&lt;p&gt;En el quinto encuentro de &lt;strong&gt;R en Rosario&lt;/strong&gt; nos pusimos a pensar en el paradigma bayesiano y nos ensuciamos las manos con R! Entrá para ver el material.&lt;/p&gt;</description>
     </item>
     

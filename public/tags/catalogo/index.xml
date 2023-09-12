@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Catalogo on R en Rosario</title>
+    <link>/tags/catalogo/</link>
+    <description>Recent content in Catalogo on R en Rosario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/catalogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automatización en la elaboración de documentos</title>
+      <link>/2021/07/rmarkdown-excel-catalogo/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/07/rmarkdown-excel-catalogo/</guid>
+      <description>&lt;p&gt;R en Rosario presentó &amp;ldquo;Creación de Catálogo de Productos usando RMarkdown y Excel&amp;rdquo;, un taller donde vimos cómo crear de forma automática un lindo catálogo de productos con sus precios a partir de datos guardados en Excel usando RMarkdown, de la mano de Iván Millanes.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
