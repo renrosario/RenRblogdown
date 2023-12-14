@@ -1,5 +1,5 @@
 ---
-title: "uenas prácticas de visualización de datos en investigación con R"
+title: "Buenas prácticas de visualización de datos en investigación con R"
 author: mrqtsp
 date: '2023-11-30'
 slug: rmarkdown-excel-catalogo
