@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>Buenas Prácticas</title>
+      <link>/tags/buenas-pr%C3%A1cticas/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/buenas-pr%C3%A1cticas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Catalogo</title>
       <link>/tags/catalogo/</link>
       <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
@@ -107,6 +116,15 @@
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/data.table/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datos Textuales</title>
+      <link>/tags/datos-textuales/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/datos-textuales/</guid>
       <description></description>
     </item>
     
@@ -248,7 +266,7 @@
     <item>
       <title>Machine Learning</title>
       <link>/tags/machine-learning/</link>
-      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/machine-learning/</guid>
       <description></description>
@@ -548,6 +566,15 @@
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/visualizacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualización Científica</title>
+      <link>/tags/visualizaci%C3%B3n-cient%C3%ADfica/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/visualizaci%C3%B3n-cient%C3%ADfica/</guid>
       <description></description>
     </item>
     

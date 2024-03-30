@@ -6,10 +6,30 @@
     <description>Recent content in Meetup on R en Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/meetup/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Análisis de datos textuales con R</title>
+      <link>/2024/03/datos-textuales-santi/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/2024/03/datos-textuales-santi/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R en Rosario&lt;/strong&gt; abrió su ciclo 2024 con una charla/taller sobre Análisis de Datos Textuales con R, a cargo del &lt;a href=&#34;https://sgs2000.github.io/&#34;&gt;&lt;strong&gt;Lic. Santiago García Sánchez&lt;/strong&gt;&lt;/a&gt;, en la Facultad de Cs. Exactas, Ingeniería y Agrimensura de la UNR.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Buenas prácticas de visualización de datos en investigación con R</title>
+      <link>/2023/11/rmarkdown-excel-catalogo/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/11/rmarkdown-excel-catalogo/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R en Rosario&lt;/strong&gt; cerró el año 2023 con una charla sobre buenas prácticas de visualización en investigación. La misma estuvo a cargo de &lt;strong&gt;Joaquín Ferreyra&lt;/strong&gt; y &lt;strong&gt;Natalia Labadie&lt;/strong&gt; y se desarrolló en las instalaciones de la &lt;a href=&#34;https://www.fbioyf.unr.edu.ar/&#34;&gt;&lt;em&gt;Facultad de Cs. Bioquímicas y Farmacéuticas de la UNR&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;El material &lt;a href=&#34;https://github.com/renrosario/Presentaciones/tree/master/20231130_visualizacion&#34;&gt;está disponible en este repo&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Dos en uno: paquetes multilingües y rOpenSci</title>

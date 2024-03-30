@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2024/03/datos-textuales-santi/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2023/11/rmarkdown-excel-catalogo/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2023/09/rmarkdown-excel-catalogo/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -169,6 +179,12 @@
   </url>
   
   <url>
+    <loc>/tags/buenas-pr%C3%A1cticas/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/catalogo/</loc>
     <lastmod>2021-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -203,6 +219,12 @@
   <url>
     <loc>/tags/data.table/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/datos-textuales/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -298,7 +320,7 @@
   
   <url>
     <loc>/tags/machine-learning/</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -310,7 +332,7 @@
   
   <url>
     <loc>/categories/meetup/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -358,7 +380,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -388,7 +410,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -521,6 +543,12 @@
   <url>
     <loc>/tags/visualizacion/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/visualizaci%C3%B3n-cient%C3%ADfica/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
